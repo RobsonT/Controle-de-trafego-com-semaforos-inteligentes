@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<configuration>
+	<input>
+		<net-file value="MAS.net.xml"/>
+		<route-files value="MAS.rou.xml"/>
+		<additional-files value="e3.add.xml"/> 
+	</input>
+	<time>
+		<begin value="0"/>
+		<end value="20000"/>
+	</time>
+	<traci_server>
+        <remote-port value="8813"/>
+    </traci_server>
+    <gui_only>
+    	<start value="true"/>
+	</gui_only>
+</configuration>
+
