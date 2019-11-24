@@ -27,7 +27,32 @@ public class SumoLane extends Lane {
 	public void setMaxSpeed(float val) {
 		
 	}
-	
+//	VAR_MAXSPEED
+	public double getMaxSpeed() {
+		Command cmd = new Command(Constants.CMD_GET_LANE_VARIABLE);
+        Content cnt = new Content(Constants.VAR_MAXSPEED, id);
+
+        cmd.setContent(cnt);
+
+        RequestMessage reqMsg = new RequestMessage();
+        reqMsg.addCommand(cmd);
+
+        try {
+            ResponseMessage rspMsg = SumoCom.query(reqMsg);
+            Content content = rspMsg.validate(
+                    (byte)Constants.CMD_GET_LANE_VARIABLE,
+                    (byte)Constants.RESPONSE_GET_LANE_VARIABLE,
+                    (byte)Constants.VAR_MAXSPEED,
+                    (byte)Constants.TYPE_DOUBLE);
+
+            return content.getDouble();
+        } catch (IOException e) {
+            e.printStackTrace();
+        } catch (WrongCommand e) {
+            e.printStackTrace();
+        }
+        return 0;
+	}
 	/**
 	 * method used to retrieve all the lane ids in the loaded network
 	 * @return String[] - a String[] with all the lane ids

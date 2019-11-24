@@ -20,21 +20,11 @@ public class AgentsManager {
 
         for (String tlId : tlsIds) {
             SumoTrafficLight tl = new SumoTrafficLight(tlId);
-            HashSet<String> lanes;
-            lanes = new HashSet(tl.getControlledLanes());
-
-            ArrayList<String> neighbours = new ArrayList<>();
-            for (String l : lanes) {
-                String n = getSrcFromLaneId(l);
-                neighbours.add(n);
-            }
-
-//            neighbours = reorderNeighbours(tlId, neighbours);
 
             TrafficLightAgent agent;
 
             try {
-                agent = new TrafficLightAgent(sumo, tlId, neighbours);
+                agent = new TrafficLightAgent(sumo, tlId);
 
                 agents.add(agent);
                 mainContainer.acceptNewAgent("TrafficLight-" + tlId, agent);
@@ -46,32 +36,6 @@ public class AgentsManager {
         }
     }
 
-//    private ArrayList<String> reorderNeighbours(String pos, ArrayList<String> neighbours) {
-//        ArrayList<String> orderedNeighbours = new ArrayList<>();
-//
-//        int col = Integer.parseInt(pos.split("/")[0]);
-//        int line = Integer.parseInt(pos.split("/")[1]);
-//
-//        String upper = Integer.toString(col) + "/" + Integer.toString(line + 1);
-//        String righter = Integer.toString(col + 1) + "/" + Integer.toString(line);
-//        String below = Integer.toString(col) + "/" + Integer.toString(line - 1);
-//        String lefter = Integer.toString(col - 1) + "/" + Integer.toString(line);
-//
-//        if (neighbours.contains(upper)) {
-//            orderedNeighbours.add(upper);
-//        }
-//        if (neighbours.contains(righter)) {
-//            orderedNeighbours.add(righter);
-//        }
-//        if (neighbours.contains(below)) {
-//            orderedNeighbours.add(below);
-//        }
-//        if (neighbours.contains(lefter)) {
-//            orderedNeighbours.add(lefter);
-//        }
-//
-//        return orderedNeighbours;
-//    }
 
     public void startupAgents(ContainerController mainContainer) {
         try {
@@ -81,13 +45,5 @@ public class AgentsManager {
         } catch (ControllerException e) {
             e.printStackTrace();
         }
-    }
-
-    private static String getSrcFromLaneId(String laneId) {
-        return laneId.split("to")[0];
-    }
-
-    private static String getDestFromLaneId(String laneId) {
-        return laneId.split("to")[1].split("_")[0];
     }
 }

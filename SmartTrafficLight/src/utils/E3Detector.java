@@ -1,7 +1,15 @@
 package utils;
 
+import java.io.ByteArrayInputStream;
 import java.io.File;
+import java.io.FileInputStream;
 import java.io.IOException;
+import java.io.InputStream;
+import java.io.SequenceInputStream;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.List;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
@@ -14,98 +22,55 @@ import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.ParserConfigurationException;
 
 public class E3Detector {
-	File fXmlFile;
-	DocumentBuilderFactory dbFactory;
-	DocumentBuilder dBuilder;
-	static Document doc;
+	 File fXmlFile;
+	 FileInputStream file;
+	 DocumentBuilderFactory dbFactory;
+	 DocumentBuilder dBuilder;
+	 Document doc;
 	
-	private static E3Detector instance = null;
-	
-	private E3Detector() {
-		fXmlFile = new File("/Users/mkyong/staff.xml");
+	public  boolean initialize() {
+		try {
+			fXmlFile = new File("network/e3.add.xml");
+			file = new FileInputStream(fXmlFile);
+		}catch (Exception e) {
+			// TODO: handle exception
+			System.out.println("Erro de leitura: " + fXmlFile);
+		}
 		dbFactory = DocumentBuilderFactory.newInstance();
 		try {
 			dBuilder = dbFactory.newDocumentBuilder();
-			doc = dBuilder.parse(fXmlFile);
+			doc = dBuilder.parse(file);
+			return true;
 		} catch (ParserConfigurationException e) {
 			// TODO Auto-generated catch block
-			e.printStackTrace();
+//			e.printStackTrace();
+			return false;
 		} catch (SAXException e) {
 			// TODO Auto-generated catch block
-			e.printStackTrace();
+//			e.printStackTrace();
+			return false;
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
-			e.printStackTrace();
+			return false;
+//			e.printStackTrace();
 		}
 	}
 	
-	public static E3Detector getInstance() {
-		if(instance == null) 
-			instance = new E3Detector();
-		return instance;
-	}
-	
-	public static float getMeanSpeed(String id) {
-		float meanSpeed = 0;
-		int interval = 0;
-//		Lista com todos os dados gerados pelos detectores
-		NodeList detectors = doc.getElementsByTagName("interval");
-//		Percorre cada intervalo dos detectores
-		for (int i = 0; i < detectors.getLength(); i++) {
+	public  List<String> getIds(String id) {
+		List<String> ids = new ArrayList<>();
 
+//		Lista com todos os dados gerados pelos detectores
+		NodeList detectors = doc.getElementsByTagName("e3Detector");
+		
+		for (int i = 0; i < detectors.getLength(); i++) {
 			Node detectorNode = detectors.item(i);
 //			Verifica se o elemento é valido		
 			if (detectorNode.getNodeType() == Node.ELEMENT_NODE) {
 				Element element = (Element) detectorNode;
-				if(element.getAttribute("id").split("_")[1].equals(id))
-					if(Integer.parseInt(element.getAttribute("end")) > interval)
-//						atualiza o meanSpeed com a velocidade médi do intervalo mais atual
-						meanSpeed = Float.parseFloat(element.getAttribute("meanSpeed"));
+					if(element.getAttribute("id").split("_")[1].equals(id))
+						ids.add(element.getAttribute("id"));
 			}
 		}
-		return meanSpeed;
+		return ids;
 	}
-	
-	public static float getMeanTravelTime(String id) {
-		float meanTravelTime = 0;
-		int interval = 0;
-//		Lista com todos os dados gerados pelos detectores
-		NodeList detectors = doc.getElementsByTagName("interval");
-//		Percorre cada intervalo dos detectores
-		for (int i = 0; i < detectors.getLength(); i++) {
-
-			Node detectorNode = detectors.item(i);
-//			Verifica se o elemento é valido		
-			if (detectorNode.getNodeType() == Node.ELEMENT_NODE) {
-				Element element = (Element) detectorNode;
-				if(element.getAttribute("id").split("_")[1].equals(id))
-					if(Integer.parseInt(element.getAttribute("end")) > interval)
-//						atualiza o meanTravelTime com o tempo de viagem médio do intervalo mais atual
-						meanTravelTime = Float.parseFloat(element.getAttribute("meanTravelTime"));
-			}
-		}
-		return meanTravelTime;
-	}
-	
-	public static int getVehicleCount(String id) {
-		int vehicles = 0;
-		int interval = 0;
-//		Lista com todos os dados gerados pelos detectores
-		NodeList detectors = doc.getElementsByTagName("interval");
-//		Percorre cada intervalo dos detectores
-		for (int i = 0; i < detectors.getLength(); i++) {
-
-			Node detectorNode = detectors.item(i);
-//			Verifica se o elemento é valido		
-			if (detectorNode.getNodeType() == Node.ELEMENT_NODE) {
-				Element element = (Element) detectorNode;
-				if(element.getAttribute("id").split("_")[1].equals(id))
-					if(Integer.parseInt(element.getAttribute("end")) > interval)
-//						atualiza o número de veículos do intervalo mais atual
-						vehicles = Integer.parseInt(element.getAttribute("vehicleSum"));
-			}
-		}
-		return vehicles;
-	}
-	
 }

@@ -44,4 +44,8 @@ public class Sumo extends Simulator {
 	public void start(){
 		comm.start(0);
 	}
+
+	public int getCurrentSimStep() {
+		return comm.getCurrentSimStep();
+	}
 }

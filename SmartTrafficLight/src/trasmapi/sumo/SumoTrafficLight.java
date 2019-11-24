@@ -58,35 +58,6 @@ public class SumoTrafficLight extends TrafficLight {
 		return null;
 	}
 
-	public String getState() {
-
-		Command cmd = new Command(Constants.CMD_GET_TL_VARIABLE);
-		Content cnt = new Content(Constants.TL_RED_YELLOW_GREEN_STATE,id);
-
-		cmd.setContent(cnt);
-
-		RequestMessage reqMsg = new RequestMessage();
-		reqMsg.addCommand(cmd);
-
-
-		try {
-
-			ResponseMessage rspMsg = SumoCom.query(reqMsg);
-			Content content = rspMsg.validate( (byte)  Constants.CMD_GET_TL_VARIABLE, (byte)  Constants.RESPONSE_GET_TL_VARIABLE,
-					(byte)  Constants.TL_RED_YELLOW_GREEN_STATE, (byte)  Constants.TYPE_STRING);
-
-			state = content.getString();
-
-			return state;
-		} catch (IOException e) {
-			e.printStackTrace();
-		} catch (WrongCommand e) {
-			e.printStackTrace();
-		}
-
-		return state;
-	}
-
 	public int getCurrentPhaseDuration(){
 
 		Command cmd = new Command(Constants.CMD_GET_TL_VARIABLE);
