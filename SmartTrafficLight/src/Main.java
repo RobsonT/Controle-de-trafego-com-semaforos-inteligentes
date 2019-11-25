@@ -41,7 +41,7 @@ public class Main {
         params.add("--device.emissions.probability=1.0");
 //        params.add("--tripinfo-output=network/logs/trip.xml");
         params.add("-c=network/MAS.sumocfg");
-        params.add("--tripinfo-output=output1.xml");
+        params.add("--tripinfo-output=output.xml");
         sumo.addParameters(params);
         sumo.addConnections("127.0.0.1", 8813);
 
@@ -64,7 +64,5 @@ public class Main {
         	if(sumo.getCurrentSimStep() / 1000 > 90 && sumo.getCurrentSimStep() / 1000 % 90 == 0)
         		Thread.sleep(1000);
         }
-        
-        api.close();
     }
 }

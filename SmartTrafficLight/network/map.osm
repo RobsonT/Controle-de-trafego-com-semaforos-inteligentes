@@ -1,0 +1,1527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.7.5 (23454 thorn-02.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="-4.9742000" minlon="-39.0175000" maxlat="-4.9687000" maxlon="-39.0135000"/>
+ <node id="252615145" visible="true" version="6" changeset="61920789" timestamp="2018-08-23T12:53:44Z" user="Cicero Costa" uid="4673010" lat="-4.9692409" lon="-39.0161879"/>
+ <node id="252615233" visible="true" version="8" changeset="61920789" timestamp="2018-08-23T12:53:44Z" user="Cicero Costa" uid="4673010" lat="-4.9685367" lon="-39.0162018">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="252615529" visible="true" version="3" changeset="36240773" timestamp="2015-12-29T13:15:51Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9689404" lon="-39.0173194"/>
+ <node id="252615600" visible="true" version="4" changeset="61866657" timestamp="2018-08-21T19:24:05Z" user="Cicero Costa" uid="4673010" lat="-4.9692528" lon="-39.0168134"/>
+ <node id="252616014" visible="true" version="2" changeset="12745814" timestamp="2012-08-16T01:08:24Z" user="jeffersonmsb" uid="805332" lat="-4.9749765" lon="-39.0167033"/>
+ <node id="252616018" visible="true" version="3" changeset="23574975" timestamp="2014-07-02T15:18:20Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9692606" lon="-39.0173140"/>
+ <node id="252616152" visible="true" version="6" changeset="61920789" timestamp="2018-08-23T12:53:44Z" user="Cicero Costa" uid="4673010" lat="-4.9700612" lon="-39.0161646">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="252616178" visible="true" version="3" changeset="36241009" timestamp="2015-12-29T13:28:00Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9700772" lon="-39.0172898"/>
+ <node id="252616203" visible="true" version="6" changeset="61866657" timestamp="2018-08-21T19:24:03Z" user="Cicero Costa" uid="4673010" lat="-4.9692569" lon="-39.0195672"/>
+ <node id="252616261" visible="true" version="3" changeset="36241009" timestamp="2015-12-29T13:28:00Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9700638" lon="-39.0167989"/>
+ <node id="252616453" visible="true" version="7" changeset="43159605" timestamp="2016-10-25T14:28:44Z" user="Thundercel" uid="82797" lat="-4.9760654" lon="-39.0159605"/>
+ <node id="252616701" visible="true" version="2" changeset="12745814" timestamp="2012-08-16T01:08:24Z" user="jeffersonmsb" uid="805332" lat="-4.9749899" lon="-39.0170949"/>
+ <node id="252616801" visible="true" version="4" changeset="61866657" timestamp="2018-08-21T19:24:05Z" user="Cicero Costa" uid="4673010" lat="-4.9689342" lon="-39.0168167"/>
+ <node id="252616803" visible="true" version="6" changeset="61920789" timestamp="2018-08-23T12:53:44Z" user="Cicero Costa" uid="4673010" lat="-4.9675242" lon="-39.0162186"/>
+ <node id="252616853" visible="true" version="6" changeset="61866657" timestamp="2018-08-21T19:24:03Z" user="Cicero Costa" uid="4673010" lat="-4.9700987" lon="-39.0184224"/>
+ <node id="252618153" visible="true" version="11" changeset="43186573" timestamp="2016-10-26T09:34:27Z" user="nikh1ll" uid="2835928" lat="-4.9706021" lon="-39.0158403">
+  <tag k="is_in" v="Ceará,Brazil"/>
+  <tag k="name" v="Quixadá"/>
+  <tag k="place" v="town"/>
+  <tag k="population" v="79505"/>
+  <tag k="wikidata" v="Q2013932"/>
+ </node>
+ <node id="1773581852" visible="true" version="4" changeset="43159605" timestamp="2016-10-25T14:28:44Z" user="Thundercel" uid="82797" lat="-4.9696969" lon="-39.0117744">
+  <tag k="railway" v="level_crossing"/>
+ </node>
+ <node id="1773581853" visible="true" version="2" changeset="61866657" timestamp="2018-08-21T19:24:03Z" user="Cicero Costa" uid="4673010" lat="-4.9697570" lon="-39.0159632"/>
+ <node id="1773581856" visible="true" version="5" changeset="61920789" timestamp="2018-08-23T12:53:44Z" user="Cicero Costa" uid="4673010" lat="-4.9697620" lon="-39.0161756">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1773581955" visible="true" version="3" changeset="24172876" timestamp="2014-07-16T01:09:23Z" user="Saubaer" uid="1749344" lat="-4.9766292" lon="-39.0112040">
+  <tag k="railway" v="level_crossing"/>
+ </node>
+ <node id="1773581982" visible="true" version="3" changeset="48318193" timestamp="2017-05-01T20:47:52Z" user="Cicero Costa" uid="4673010" lat="-4.9818822" lon="-39.0060381"/>
+ <node id="1866429785" visible="true" version="6" changeset="61866657" timestamp="2018-08-21T19:24:03Z" user="Cicero Costa" uid="4673010" lat="-4.9685244" lon="-39.0146992"/>
+ <node id="1866429826" visible="true" version="7" changeset="36219491" timestamp="2015-12-28T13:37:31Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9699861" lon="-39.0091781"/>
+ <node id="1866474362" visible="true" version="1" changeset="12732207" timestamp="2012-08-14T21:54:24Z" user="jeffersonmsb" uid="805332" lat="-4.9697065" lon="-39.0101997"/>
+ <node id="1867610456" visible="true" version="1" changeset="12741389" timestamp="2012-08-15T17:08:38Z" user="jeffersonmsb" uid="805332" lat="-4.9697225" lon="-39.0101437"/>
+ <node id="1867610459" visible="true" version="3" changeset="43159605" timestamp="2016-10-25T14:28:44Z" user="Thundercel" uid="82797" lat="-4.9696810" lon="-39.0115763"/>
+ <node id="1867619413" visible="true" version="1" changeset="12741389" timestamp="2012-08-15T17:20:12Z" user="jeffersonmsb" uid="805332" lat="-4.9717973" lon="-39.0101339"/>
+ <node id="1867619416" visible="true" version="3" changeset="43159605" timestamp="2016-10-25T14:28:44Z" user="Thundercel" uid="82797" lat="-4.9696691" lon="-39.0114568"/>
+ <node id="1867619421" visible="true" version="4" changeset="43159605" timestamp="2016-10-25T14:28:44Z" user="Thundercel" uid="82797" lat="-4.9696704" lon="-39.0111135"/>
+ <node id="1867619436" visible="true" version="2" changeset="61866657" timestamp="2018-08-21T19:24:07Z" user="Cicero Costa" uid="4673010" lat="-4.9718333" lon="-39.0118379"/>
+ <node id="1868082237" visible="true" version="2" changeset="12753704" timestamp="2012-08-16T18:10:06Z" user="jeffersonmsb" uid="805332" lat="-4.9703920" lon="-39.0119375"/>
+ <node id="1868898516" visible="true" version="4" changeset="61866657" timestamp="2018-08-21T19:24:06Z" user="Cicero Costa" uid="4673010" lat="-4.9727788" lon="-39.0145335"/>
+ <node id="1868898520" visible="true" version="1" changeset="12753704" timestamp="2012-08-16T18:10:02Z" user="jeffersonmsb" uid="805332" lat="-4.9680412" lon="-39.0134465"/>
+ <node id="1868898522" visible="true" version="4" changeset="61866657" timestamp="2018-08-21T19:24:06Z" user="Cicero Costa" uid="4673010" lat="-4.9726473" lon="-39.0145474"/>
+ <node id="1868898538" visible="true" version="2" changeset="49900488" timestamp="2017-06-28T19:31:36Z" user="Gledson" uid="2572615" lat="-4.9774022" lon="-39.0103790"/>
+ <node id="1868898539" visible="true" version="2" changeset="61866657" timestamp="2018-08-21T19:24:06Z" user="Cicero Costa" uid="4673010" lat="-4.9726019" lon="-39.0135656"/>
+ <node id="1868898540" visible="true" version="2" changeset="41537057" timestamp="2016-08-18T15:57:30Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9731142" lon="-39.0145115"/>
+ <node id="1868898541" visible="true" version="4" changeset="61920789" timestamp="2018-08-23T12:53:44Z" user="Cicero Costa" uid="4673010" lat="-4.9724547" lon="-39.0160957"/>
+ <node id="1868898542" visible="true" version="2" changeset="61866657" timestamp="2018-08-21T19:24:07Z" user="Cicero Costa" uid="4673010" lat="-4.9729174" lon="-39.0136846"/>
+ <node id="1868898545" visible="true" version="2" changeset="61920789" timestamp="2018-08-23T12:53:45Z" user="Cicero Costa" uid="4673010" lat="-4.9718514" lon="-39.0155384"/>
+ <node id="1868898546" visible="true" version="3" changeset="49900488" timestamp="2017-06-28T19:31:36Z" user="Gledson" uid="2572615" lat="-4.9779600" lon="-39.0098600"/>
+ <node id="1868898547" visible="true" version="1" changeset="12753704" timestamp="2012-08-16T18:10:03Z" user="jeffersonmsb" uid="805332" lat="-4.9729649" lon="-39.0157556"/>
+ <node id="1868898551" visible="true" version="3" changeset="61866657" timestamp="2018-08-21T19:24:07Z" user="Cicero Costa" uid="4673010" lat="-4.9740266" lon="-39.0133487"/>
+ <node id="1868898555" visible="true" version="4" changeset="61866657" timestamp="2018-08-21T19:24:03Z" user="Cicero Costa" uid="4673010" lat="-4.9685177" lon="-39.0134185"/>
+ <node id="1868898559" visible="true" version="1" changeset="12753704" timestamp="2012-08-16T18:10:03Z" user="jeffersonmsb" uid="805332" lat="-4.9750332" lon="-39.0128911"/>
+ <node id="1868898560" visible="true" version="1" changeset="12753704" timestamp="2012-08-16T18:10:03Z" user="jeffersonmsb" uid="805332" lat="-4.9763104" lon="-39.0116895"/>
+ <node id="1868898562" visible="true" version="3" changeset="49900488" timestamp="2017-06-28T19:31:35Z" user="Gledson" uid="2572615" lat="-4.9790354" lon="-39.0088045"/>
+ <node id="1868898574" visible="true" version="4" changeset="61920789" timestamp="2018-08-23T12:53:45Z" user="Cicero Costa" uid="4673010" lat="-4.9724402" lon="-39.0152473"/>
+ <node id="1868898576" visible="true" version="1" changeset="12753704" timestamp="2012-08-16T18:10:03Z" user="jeffersonmsb" uid="805332" lat="-4.9734379" lon="-39.0153560"/>
+ <node id="1868898578" visible="true" version="3" changeset="61920789" timestamp="2018-08-23T12:53:45Z" user="Cicero Costa" uid="4673010" lat="-4.9697447" lon="-39.0154731"/>
+ <node id="1868898579" visible="true" version="2" changeset="45828645" timestamp="2017-02-05T13:16:11Z" user="Cicero Costa" uid="4673010" lat="-4.9731291" lon="-39.0152874"/>
+ <node id="1868898580" visible="true" version="2" changeset="61866657" timestamp="2018-08-21T19:24:06Z" user="Cicero Costa" uid="4673010" lat="-4.9718608" lon="-39.0132801"/>
+ <node id="1868898581" visible="true" version="3" changeset="61920789" timestamp="2018-08-23T12:53:44Z" user="Cicero Costa" uid="4673010" lat="-4.9733503" lon="-39.0160794"/>
+ <node id="1868898583" visible="true" version="2" changeset="61866657" timestamp="2018-08-21T19:24:07Z" user="Cicero Costa" uid="4673010" lat="-4.9747568" lon="-39.0131042"/>
+ <node id="1868898584" visible="true" version="3" changeset="61920789" timestamp="2018-08-23T12:53:44Z" user="Cicero Costa" uid="4673010" lat="-4.9727379" lon="-39.0160885"/>
+ <node id="1868898586" visible="true" version="2" changeset="45828645" timestamp="2017-02-05T13:16:11Z" user="Cicero Costa" uid="4673010" lat="-4.9731904" lon="-39.0150591"/>
+ <node id="1868898587" visible="true" version="4" changeset="61920789" timestamp="2018-08-23T12:53:44Z" user="Cicero Costa" uid="4673010" lat="-4.9707199" lon="-39.0161502"/>
+ <node id="1868898588" visible="true" version="2" changeset="61866657" timestamp="2018-08-21T19:24:03Z" user="Cicero Costa" uid="4673010" lat="-4.9692331" lon="-39.0154843"/>
+ <node id="1868898589" visible="true" version="4" changeset="61920789" timestamp="2018-08-23T12:53:45Z" user="Cicero Costa" uid="4673010" lat="-4.9704475" lon="-39.0155881"/>
+ <node id="1868898590" visible="true" version="2" changeset="45828645" timestamp="2017-02-05T13:16:11Z" user="Cicero Costa" uid="4673010" lat="-4.9732403" lon="-39.0148851"/>
+ <node id="1868898592" visible="true" version="4" changeset="61866657" timestamp="2018-08-21T19:24:03Z" user="Cicero Costa" uid="4673010" lat="-4.9685346" lon="-39.0155062"/>
+ <node id="1868898594" visible="true" version="3" changeset="61866657" timestamp="2018-08-21T19:24:04Z" user="Cicero Costa" uid="4673010" lat="-4.9718824" lon="-39.0197385"/>
+ <node id="1868898595" visible="true" version="2" changeset="49900488" timestamp="2017-06-28T19:31:36Z" user="Gledson" uid="2572615" lat="-4.9769366" lon="-39.0108368"/>
+ <node id="1868898597" visible="true" version="4" changeset="61920789" timestamp="2018-08-23T12:53:45Z" user="Cicero Costa" uid="4673010" lat="-4.9707118" lon="-39.0155791"/>
+ <node id="1868898610" visible="true" version="4" changeset="61920789" timestamp="2018-08-23T12:53:45Z" user="Cicero Costa" uid="4673010" lat="-4.9697470" lon="-39.0156074"/>
+ <node id="1868898612" visible="true" version="2" changeset="47139457" timestamp="2017-03-25T03:59:41Z" user="patodiez" uid="1856060" lat="-4.9691950" lon="-39.0133693"/>
+ <node id="1868903731" visible="true" version="4" changeset="61920789" timestamp="2018-08-23T12:53:44Z" user="Cicero Costa" uid="4673010" lat="-4.9668948" lon="-39.0162263"/>
+ <node id="1868903732" visible="true" version="3" changeset="61920789" timestamp="2018-08-23T12:53:44Z" user="Cicero Costa" uid="4673010" lat="-4.9734656" lon="-39.0160779"/>
+ <node id="1868903733" visible="true" version="2" changeset="61866657" timestamp="2018-08-21T19:24:07Z" user="Cicero Costa" uid="4673010" lat="-4.9718315" lon="-39.0120482"/>
+ <node id="1868903734" visible="true" version="3" changeset="61920789" timestamp="2018-08-23T12:53:44Z" user="Cicero Costa" uid="4673010" lat="-4.9713217" lon="-39.0161322"/>
+ <node id="1868903735" visible="true" version="3" changeset="61866657" timestamp="2018-08-21T19:24:04Z" user="Cicero Costa" uid="4673010" lat="-4.9742995" lon="-39.0185397"/>
+ <node id="1868903738" visible="true" version="4" changeset="61920789" timestamp="2018-08-23T12:53:44Z" user="Cicero Costa" uid="4673010" lat="-4.9742904" lon="-39.0160653"/>
+ <node id="1868903739" visible="true" version="5" changeset="61866657" timestamp="2018-08-21T19:24:03Z" user="Cicero Costa" uid="4673010" lat="-4.9713757" lon="-39.0195047"/>
+ <node id="1868903741" visible="true" version="2" changeset="61866657" timestamp="2018-08-21T19:24:07Z" user="Cicero Costa" uid="4673010" lat="-4.9734298" lon="-39.0167294"/>
+ <node id="1868903742" visible="true" version="1" changeset="12753704" timestamp="2012-08-16T18:18:53Z" user="jeffersonmsb" uid="805332" lat="-4.9742928" lon="-39.0167164"/>
+ <node id="1868931752" visible="true" version="4" changeset="61920789" timestamp="2018-08-23T12:53:45Z" user="Cicero Costa" uid="4673010" lat="-4.9759150" lon="-39.0160685"/>
+ <node id="2014760293" visible="true" version="2" changeset="20155034" timestamp="2014-01-23T07:21:16Z" user="Arthur Rodrigues" uid="99364" lat="-4.9692856" lon="-39.0228576"/>
+ <node id="2014760294" visible="true" version="7" changeset="61866657" timestamp="2018-08-21T19:24:03Z" user="Cicero Costa" uid="4673010" lat="-4.9692608" lon="-39.0206952"/>
+ <node id="2014760295" visible="true" version="3" changeset="61866657" timestamp="2018-08-21T19:24:04Z" user="Cicero Costa" uid="4673010" lat="-4.9692751" lon="-39.0217941"/>
+ <node id="2014760300" visible="true" version="3" changeset="61866657" timestamp="2018-08-21T19:24:04Z" user="Cicero Costa" uid="4673010" lat="-4.9718805" lon="-39.0194971"/>
+ <node id="2014760301" visible="true" version="3" changeset="61866657" timestamp="2018-08-21T19:24:04Z" user="Cicero Costa" uid="4673010" lat="-4.9725690" lon="-39.0194837"/>
+ <node id="2068982562" visible="true" version="3" changeset="61866657" timestamp="2018-08-21T19:24:03Z" user="Cicero Costa" uid="4673010" lat="-4.9692118" lon="-39.0146792"/>
+ <node id="2068982566" visible="true" version="1" changeset="14286751" timestamp="2012-12-15T22:06:33Z" user="dmgroom_ct" uid="437598" lat="-4.9697042" lon="-39.0119438"/>
+ <node id="2068982567" visible="true" version="1" changeset="14286751" timestamp="2012-12-15T22:06:33Z" user="dmgroom_ct" uid="437598" lat="-4.9697101" lon="-39.0122592"/>
+ <node id="2068982568" visible="true" version="1" changeset="14286751" timestamp="2012-12-15T22:06:33Z" user="dmgroom_ct" uid="437598" lat="-4.9697305" lon="-39.0133358"/>
+ <node id="2068982569" visible="true" version="4" changeset="61920789" timestamp="2018-08-23T12:53:45Z" user="Cicero Costa" uid="4673010" lat="-4.9697313" lon="-39.0146560"/>
+ <node id="2068982571" visible="true" version="2" changeset="61866657" timestamp="2018-08-21T19:24:07Z" user="Cicero Costa" uid="4673010" lat="-4.9703901" lon="-39.0122588"/>
+ <node id="2068982572" visible="true" version="2" changeset="61866657" timestamp="2018-08-21T19:24:06Z" user="Cicero Costa" uid="4673010" lat="-4.9703924" lon="-39.0133130"/>
+ <node id="2068982573" visible="true" version="3" changeset="61866657" timestamp="2018-08-21T19:24:06Z" user="Cicero Costa" uid="4673010" lat="-4.9704277" lon="-39.0146318"/>
+ <node id="2068982575" visible="true" version="3" changeset="61866657" timestamp="2018-08-21T19:24:06Z" user="Cicero Costa" uid="4673010" lat="-4.9713391" lon="-39.0172334"/>
+ <node id="2068982576" visible="true" version="3" changeset="36242252" timestamp="2015-12-29T14:29:50Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9713333" lon="-39.0167922"/>
+ <node id="2068982577" visible="true" version="2" changeset="38684343" timestamp="2016-04-19T04:50:44Z" user="dbusse" uid="149876" lat="-4.9718080" lon="-39.0110303"/>
+ <node id="2068982578" visible="true" version="3" changeset="36242252" timestamp="2015-12-29T14:29:50Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9718707" lon="-39.0172172"/>
+ <node id="2068982579" visible="true" version="5" changeset="61866657" timestamp="2018-08-21T19:24:06Z" user="Cicero Costa" uid="4673010" lat="-4.9718667" lon="-39.0167900"/>
+ <node id="2068982580" visible="true" version="4" changeset="61920789" timestamp="2018-08-23T12:53:44Z" user="Cicero Costa" uid="4673010" lat="-4.9718595" lon="-39.0161188"/>
+ <node id="2068982581" visible="true" version="3" changeset="61866657" timestamp="2018-08-21T19:24:06Z" user="Cicero Costa" uid="4673010" lat="-4.9718484" lon="-39.0145806"/>
+ <node id="2068982582" visible="true" version="4" changeset="36241009" timestamp="2015-12-29T13:28:00Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9725409" lon="-39.0171881"/>
+ <node id="2068982583" visible="true" version="4" changeset="61866657" timestamp="2018-08-21T19:24:06Z" user="Cicero Costa" uid="4673010" lat="-4.9725344" lon="-39.0167778"/>
+ <node id="2068982584" visible="true" version="2" changeset="20155315" timestamp="2014-01-23T07:50:51Z" user="Arthur Rodrigues" uid="99364" lat="-4.9743052" lon="-39.0171242"/>
+ <node id="2633376257" visible="true" version="1" changeset="20155034" timestamp="2014-01-23T07:21:10Z" user="Arthur Rodrigues" uid="99364" lat="-4.9692796" lon="-39.0239943"/>
+ <node id="2633376258" visible="true" version="2" changeset="36241009" timestamp="2015-12-29T13:28:00Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9692904" lon="-39.0250062"/>
+ <node id="2633376321" visible="true" version="4" changeset="61920789" timestamp="2018-08-23T12:53:44Z" user="Cicero Costa" uid="4673010" lat="-4.9738019" lon="-39.0160711"/>
+ <node id="2633376323" visible="true" version="2" changeset="43159605" timestamp="2016-10-25T14:28:44Z" user="Thundercel" uid="82797" lat="-4.9753422" lon="-39.0159527"/>
+ <node id="2633376324" visible="true" version="2" changeset="43159605" timestamp="2016-10-25T14:28:44Z" user="Thundercel" uid="82797" lat="-4.9757354" lon="-39.0159555"/>
+ <node id="2633376326" visible="true" version="3" changeset="43159605" timestamp="2016-10-25T14:28:44Z" user="Thundercel" uid="82797" lat="-4.9760887" lon="-39.0159176"/>
+ <node id="2633376330" visible="true" version="4" changeset="61920789" timestamp="2018-08-23T12:53:45Z" user="Cicero Costa" uid="4673010" lat="-4.9757538" lon="-39.0161007"/>
+ <node id="2633376331" visible="true" version="3" changeset="61920789" timestamp="2018-08-23T12:53:45Z" user="Cicero Costa" uid="4673010" lat="-4.9750596" lon="-39.0161259"/>
+ <node id="2633376332" visible="true" version="4" changeset="61920789" timestamp="2018-08-23T12:53:44Z" user="Cicero Costa" uid="4673010" lat="-4.9747804" lon="-39.0161349"/>
+ <node id="2633376333" visible="true" version="3" changeset="61920789" timestamp="2018-08-23T12:53:44Z" user="Cicero Costa" uid="4673010" lat="-4.9741995" lon="-39.0161430"/>
+ <node id="2633376334" visible="true" version="3" changeset="61920789" timestamp="2018-08-23T12:53:45Z" user="Cicero Costa" uid="4673010" lat="-4.9735968" lon="-39.0161431"/>
+ <node id="2633376335" visible="true" version="3" changeset="61920789" timestamp="2018-08-23T12:53:45Z" user="Cicero Costa" uid="4673010" lat="-4.9734160" lon="-39.0161444"/>
+ <node id="2633376336" visible="true" version="2" changeset="61920789" timestamp="2018-08-23T12:53:44Z" user="Cicero Costa" uid="4673010" lat="-4.9727575" lon="-39.0161510"/>
+ <node id="2633376337" visible="true" version="5" changeset="61920789" timestamp="2018-08-23T12:53:44Z" user="Cicero Costa" uid="4673010" lat="-4.9725160" lon="-39.0161571">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="2633376338" visible="true" version="4" changeset="61920789" timestamp="2018-08-23T12:53:44Z" user="Cicero Costa" uid="4673010" lat="-4.9718587" lon="-39.0161791"/>
+ <node id="2633376339" visible="true" version="2" changeset="61920789" timestamp="2018-08-23T12:53:44Z" user="Cicero Costa" uid="4673010" lat="-4.9713216" lon="-39.0161913"/>
+ <node id="2633376340" visible="true" version="2" changeset="61920789" timestamp="2018-08-23T12:53:44Z" user="Cicero Costa" uid="4673010" lat="-4.9710166" lon="-39.0161951"/>
+ <node id="2633376341" visible="true" version="2" changeset="61920789" timestamp="2018-08-23T12:53:44Z" user="Cicero Costa" uid="4673010" lat="-4.9707202" lon="-39.0162030"/>
+ <node id="2633376342" visible="true" version="4" changeset="61920789" timestamp="2018-08-23T12:53:44Z" user="Cicero Costa" uid="4673010" lat="-4.9700611" lon="-39.0162227">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="2633376343" visible="true" version="4" changeset="61920789" timestamp="2018-08-23T12:53:44Z" user="Cicero Costa" uid="4673010" lat="-4.9692432" lon="-39.0162411"/>
+ <node id="2633376344" visible="true" version="5" changeset="61920789" timestamp="2018-08-23T12:53:44Z" user="Cicero Costa" uid="4673010" lat="-4.9685376" lon="-39.0162531">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="2633376352" visible="true" version="5" changeset="61920789" timestamp="2018-08-23T12:53:44Z" user="Cicero Costa" uid="4673010" lat="-4.9675250" lon="-39.0162719"/>
+ <node id="2633398062" visible="true" version="2" changeset="36241009" timestamp="2015-12-29T13:28:00Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9725544" lon="-39.0183352"/>
+ <node id="2633398064" visible="true" version="3" changeset="61866657" timestamp="2018-08-21T19:24:04Z" user="Cicero Costa" uid="4673010" lat="-4.9725934" lon="-39.0217349"/>
+ <node id="2633398078" visible="true" version="1" changeset="20155315" timestamp="2014-01-23T07:50:47Z" user="Arthur Rodrigues" uid="99364" lat="-4.9725227" lon="-39.0245580"/>
+ <node id="2633398084" visible="true" version="2" changeset="61866657" timestamp="2018-08-21T19:24:04Z" user="Cicero Costa" uid="4673010" lat="-4.9725089" lon="-39.0217374"/>
+ <node id="2633398086" visible="true" version="3" changeset="36241009" timestamp="2015-12-29T13:28:00Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9724944" lon="-39.0206158"/>
+ <node id="2633398088" visible="true" version="2" changeset="61866657" timestamp="2018-08-21T19:24:04Z" user="Cicero Costa" uid="4673010" lat="-4.9724796" lon="-39.0194884"/>
+ <node id="2633398090" visible="true" version="2" changeset="36241009" timestamp="2015-12-29T13:28:00Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9724848" lon="-39.0183371"/>
+ <node id="2633398092" visible="true" version="2" changeset="36241009" timestamp="2015-12-29T13:28:00Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9724770" lon="-39.0171920"/>
+ <node id="2633398094" visible="true" version="1" changeset="20155315" timestamp="2014-01-23T07:50:48Z" user="Arthur Rodrigues" uid="99364" lat="-4.9724752" lon="-39.0167828"/>
+ <node id="2633398095" visible="true" version="3" changeset="61920789" timestamp="2018-08-23T12:53:44Z" user="Cicero Costa" uid="4673010" lat="-4.9724554" lon="-39.0161580">
+  <tag k="highway" v="traffic_signals"/>
+  <tag k="traffic_signals" v="signal"/>
+ </node>
+ <node id="2633398097" visible="true" version="2" changeset="61920789" timestamp="2018-08-23T12:53:44Z" user="Cicero Costa" uid="4673010" lat="-4.9725172" lon="-39.0160950">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="2633398100" visible="true" version="3" changeset="61866657" timestamp="2018-08-21T19:24:03Z" user="Cicero Costa" uid="4673010" lat="-4.9713552" lon="-39.0183776"/>
+ <node id="2633398101" visible="true" version="1" changeset="20155315" timestamp="2014-01-23T07:50:48Z" user="Arthur Rodrigues" uid="99364" lat="-4.9718767" lon="-39.0183586"/>
+ <node id="2633398103" visible="true" version="6" changeset="61866657" timestamp="2018-08-21T19:24:04Z" user="Cicero Costa" uid="4673010" lat="-4.9718813" lon="-39.0206480"/>
+ <node id="2633398105" visible="true" version="2" changeset="61866657" timestamp="2018-08-21T19:24:04Z" user="Cicero Costa" uid="4673010" lat="-4.9718980" lon="-39.0217516"/>
+ <node id="2633398147" visible="true" version="2" changeset="36241009" timestamp="2015-12-29T13:28:00Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9725447" lon="-39.0175142"/>
+ <node id="2633398148" visible="true" version="2" changeset="61866657" timestamp="2018-08-21T19:24:04Z" user="Cicero Costa" uid="4673010" lat="-4.9733915" lon="-39.0174956"/>
+ <node id="2633398149" visible="true" version="2" changeset="61866657" timestamp="2018-08-21T19:24:04Z" user="Cicero Costa" uid="4673010" lat="-4.9739450" lon="-39.0174809"/>
+ <node id="2633398150" visible="true" version="2" changeset="61866657" timestamp="2018-08-21T19:24:04Z" user="Cicero Costa" uid="4673010" lat="-4.9743121" lon="-39.0174573"/>
+ <node id="2633398151" visible="true" version="2" changeset="37716617" timestamp="2016-03-09T19:01:38Z" user="Klevinho Santos" uid="3653414" lat="-4.9751730" lon="-39.0176920"/>
+ <node id="2633398152" visible="true" version="1" changeset="20155315" timestamp="2014-01-23T07:50:49Z" user="Arthur Rodrigues" uid="99364" lat="-4.9755076" lon="-39.0177974"/>
+ <node id="2633398153" visible="true" version="2" changeset="34746917" timestamp="2015-10-20T02:48:51Z" user="patodiez" uid="1856060" lat="-4.9743064" lon="-39.0195456"/>
+ <node id="2638422753" visible="true" version="3" changeset="43159605" timestamp="2016-10-25T14:28:44Z" user="Thundercel" uid="82797" lat="-4.9758774" lon="-39.0145264"/>
+ <node id="2638422756" visible="true" version="2" changeset="43159605" timestamp="2016-10-25T14:28:44Z" user="Thundercel" uid="82797" lat="-4.9755836" lon="-39.0144605"/>
+ <node id="2638422759" visible="true" version="2" changeset="43159605" timestamp="2016-10-25T14:28:44Z" user="Thundercel" uid="82797" lat="-4.9750118" lon="-39.0144793"/>
+ <node id="2638422762" visible="true" version="2" changeset="43159605" timestamp="2016-10-25T14:28:45Z" user="Thundercel" uid="82797" lat="-4.9748381" lon="-39.0138731"/>
+ <node id="2638422765" visible="true" version="3" changeset="43159605" timestamp="2016-10-25T14:28:45Z" user="Thundercel" uid="82797" lat="-4.9743782" lon="-39.0139976"/>
+ <node id="2638422768" visible="true" version="3" changeset="43159605" timestamp="2016-10-25T14:28:45Z" user="Thundercel" uid="82797" lat="-4.9743291" lon="-39.0138435"/>
+ <node id="2638422770" visible="true" version="4" changeset="43159605" timestamp="2016-10-25T14:28:45Z" user="Thundercel" uid="82797" lat="-4.9736741" lon="-39.0134392"/>
+ <node id="2638422772" visible="true" version="2" changeset="43159605" timestamp="2016-10-25T14:28:45Z" user="Thundercel" uid="82797" lat="-4.9731039" lon="-39.0141950"/>
+ <node id="2638422774" visible="true" version="2" changeset="43159605" timestamp="2016-10-25T14:28:45Z" user="Thundercel" uid="82797" lat="-4.9733952" lon="-39.0150801"/>
+ <node id="2638422776" visible="true" version="3" changeset="43159605" timestamp="2016-10-25T14:28:45Z" user="Thundercel" uid="82797" lat="-4.9747506" lon="-39.0147033"/>
+ <node id="3793671340" visible="true" version="1" changeset="34746772" timestamp="2015-10-20T02:19:50Z" user="patodiez" uid="1856060" lat="-4.9697177" lon="-39.0126602"/>
+ <node id="3793671341" visible="true" version="2" changeset="61866657" timestamp="2018-08-21T19:24:07Z" user="Cicero Costa" uid="4673010" lat="-4.9703900" lon="-39.0126428"/>
+ <node id="3793671346" visible="true" version="1" changeset="34746772" timestamp="2015-10-20T02:19:50Z" user="patodiez" uid="1856060" lat="-4.9765701" lon="-39.0112941"/>
+ <node id="3793673765" visible="true" version="2" changeset="49900488" timestamp="2017-06-28T19:31:36Z" user="Gledson" uid="2572615" lat="-4.9767600" lon="-39.0110858"/>
+ <node id="3793680789" visible="true" version="4" changeset="61866657" timestamp="2018-08-21T19:24:03Z" user="Cicero Costa" uid="4673010" lat="-4.9692602" lon="-39.0184427"/>
+ <node id="3793680790" visible="true" version="3" changeset="61866657" timestamp="2018-08-21T19:24:03Z" user="Cicero Costa" uid="4673010" lat="-4.9713484" lon="-39.0178103"/>
+ <node id="3793680792" visible="true" version="2" changeset="61866657" timestamp="2018-08-21T19:24:04Z" user="Cicero Costa" uid="4673010" lat="-4.9742917" lon="-39.0182983"/>
+ <node id="3793680795" visible="true" version="2" changeset="61866657" timestamp="2018-08-21T19:24:04Z" user="Cicero Costa" uid="4673010" lat="-4.9734321" lon="-39.0194438"/>
+ <node id="3793680796" visible="true" version="2" changeset="61866657" timestamp="2018-08-21T19:24:04Z" user="Cicero Costa" uid="4673010" lat="-4.9734068" lon="-39.0183141"/>
+ <node id="3793680802" visible="true" version="1" changeset="34746917" timestamp="2015-10-20T02:48:45Z" user="patodiez" uid="1856060" lat="-4.9743091" lon="-39.0194381"/>
+ <node id="3793680803" visible="true" version="3" changeset="61866657" timestamp="2018-08-21T19:24:04Z" user="Cicero Costa" uid="4673010" lat="-4.9743058" lon="-39.0211568"/>
+ <node id="3793680808" visible="true" version="3" changeset="61866657" timestamp="2018-08-21T19:24:04Z" user="Cicero Costa" uid="4673010" lat="-4.9743026" lon="-39.0205869"/>
+ <node id="3793680811" visible="true" version="2" changeset="61866657" timestamp="2018-08-21T19:24:04Z" user="Cicero Costa" uid="4673010" lat="-4.9742972" lon="-39.0200110"/>
+ <node id="3793680815" visible="true" version="3" changeset="61866657" timestamp="2018-08-21T19:24:04Z" user="Cicero Costa" uid="4673010" lat="-4.9725721" lon="-39.0206172"/>
+ <node id="3793680833" visible="true" version="2" changeset="36241009" timestamp="2015-12-29T13:28:00Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9726066" lon="-39.0239270"/>
+ <node id="3844388007" visible="true" version="1" changeset="35432261" timestamp="2015-11-19T11:39:40Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9710068" lon="-39.0145388"/>
+ <node id="3844388008" visible="true" version="2" changeset="36219217" timestamp="2015-12-28T13:22:15Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9718241" lon="-39.0145141"/>
+ <node id="3844388009" visible="true" version="1" changeset="35432261" timestamp="2015-11-19T11:39:41Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9718306" lon="-39.0139031"/>
+ <node id="3844388010" visible="true" version="1" changeset="35432261" timestamp="2015-11-19T11:39:41Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9717961" lon="-39.0138625"/>
+ <node id="3844388011" visible="true" version="1" changeset="35432261" timestamp="2015-11-19T11:39:41Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9714960" lon="-39.0138881"/>
+ <node id="3844388012" visible="true" version="2" changeset="41541020" timestamp="2016-08-18T18:29:14Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9709986" lon="-39.0140486"/>
+ <node id="3916347793" visible="true" version="3" changeset="61920789" timestamp="2018-08-23T12:53:44Z" user="Cicero Costa" uid="4673010" lat="-4.9697633" lon="-39.0162281"/>
+ <node id="3916347800" visible="true" version="2" changeset="61866657" timestamp="2018-08-21T19:24:03Z" user="Cicero Costa" uid="4673010" lat="-4.9685450" lon="-39.0173311"/>
+ <node id="3916347805" visible="true" version="3" changeset="61920789" timestamp="2018-08-23T12:53:44Z" user="Cicero Costa" uid="4673010" lat="-4.9674556" lon="-39.0162207"/>
+ <node id="3916347810" visible="true" version="7" changeset="61920789" timestamp="2018-08-23T12:53:45Z" user="Cicero Costa" uid="4673010" lat="-4.9685427" lon="-39.0168164"/>
+ <node id="3916510612" visible="true" version="2" changeset="61920789" timestamp="2018-08-23T12:53:45Z" user="Cicero Costa" uid="4673010" lat="-4.9707301" lon="-39.0155963"/>
+ <node id="3916510613" visible="true" version="2" changeset="61920789" timestamp="2018-08-23T12:53:45Z" user="Cicero Costa" uid="4673010" lat="-4.9718054" lon="-39.0155771"/>
+ <node id="3916510614" visible="true" version="1" changeset="36241976" timestamp="2015-12-29T14:15:23Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9718176" lon="-39.0160581"/>
+ <node id="3916510615" visible="true" version="1" changeset="36241976" timestamp="2015-12-29T14:15:23Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9707445" lon="-39.0160838"/>
+ <node id="3916514656" visible="true" version="3" changeset="61920789" timestamp="2018-08-23T12:53:45Z" user="Cicero Costa" uid="4673010" lat="-4.9697896" lon="-39.0161305"/>
+ <node id="3916515106" visible="true" version="1" changeset="36241940" timestamp="2015-12-29T14:13:30Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9686084" lon="-39.0172763"/>
+ <node id="3916515107" visible="true" version="1" changeset="36241940" timestamp="2015-12-29T14:13:30Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9686012" lon="-39.0168784"/>
+ <node id="3916515108" visible="true" version="1" changeset="36241940" timestamp="2015-12-29T14:13:30Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9688961" lon="-39.0168730"/>
+ <node id="3916515109" visible="true" version="1" changeset="36241940" timestamp="2015-12-29T14:13:30Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9689033" lon="-39.0172709"/>
+ <node id="3916515110" visible="true" version="1" changeset="36241940" timestamp="2015-12-29T14:13:30Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9689652" lon="-39.0172733"/>
+ <node id="3916515111" visible="true" version="1" changeset="36241940" timestamp="2015-12-29T14:13:30Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9689560" lon="-39.0168737"/>
+ <node id="3916515112" visible="true" version="1" changeset="36241940" timestamp="2015-12-29T14:13:30Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9692288" lon="-39.0168674"/>
+ <node id="3916515113" visible="true" version="1" changeset="36241940" timestamp="2015-12-29T14:13:30Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9692380" lon="-39.0172670"/>
+ <node id="3916515114" visible="true" version="1" changeset="36241940" timestamp="2015-12-29T14:13:30Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9694235" lon="-39.0172499"/>
+ <node id="3916515115" visible="true" version="1" changeset="36241940" timestamp="2015-12-29T14:13:30Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9698973" lon="-39.0172417"/>
+ <node id="3916515116" visible="true" version="1" changeset="36241940" timestamp="2015-12-29T14:13:30Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9698910" lon="-39.0168778"/>
+ <node id="3916515117" visible="true" version="1" changeset="36241940" timestamp="2015-12-29T14:13:30Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9694172" lon="-39.0168860"/>
+ <node id="3916534957" visible="true" version="3" changeset="61920789" timestamp="2018-08-23T12:53:45Z" user="Cicero Costa" uid="4673010" lat="-4.9706827" lon="-39.0161107"/>
+ <node id="3916534958" visible="true" version="3" changeset="61920789" timestamp="2018-08-23T12:53:45Z" user="Cicero Costa" uid="4673010" lat="-4.9706689" lon="-39.0156348"/>
+ <node id="3916534959" visible="true" version="3" changeset="61920789" timestamp="2018-08-23T12:53:45Z" user="Cicero Costa" uid="4673010" lat="-4.9697805" lon="-39.0156557"/>
+ <node id="3916555162" visible="true" version="2" changeset="53162400" timestamp="2017-10-22T20:56:18Z" user="Jakson Aquino" uid="4393426" lat="-4.9720780" lon="-39.0164727"/>
+ <node id="3916555163" visible="true" version="2" changeset="53162400" timestamp="2017-10-22T20:56:18Z" user="Jakson Aquino" uid="4393426" lat="-4.9722274" lon="-39.0164725"/>
+ <node id="3916555164" visible="true" version="2" changeset="53162400" timestamp="2017-10-22T20:56:18Z" user="Jakson Aquino" uid="4393426" lat="-4.9722277" lon="-39.0167389"/>
+ <node id="3916555165" visible="true" version="2" changeset="53162400" timestamp="2017-10-22T20:56:18Z" user="Jakson Aquino" uid="4393426" lat="-4.9720782" lon="-39.0167390"/>
+ <node id="3973554980" visible="true" version="1" changeset="36855202" timestamp="2016-01-28T11:52:56Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9688735" lon="-39.0161357"/>
+ <node id="3973554981" visible="true" version="1" changeset="36855202" timestamp="2016-01-28T11:52:56Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9688739" lon="-39.0158408"/>
+ <node id="3973554983" visible="true" version="1" changeset="36855202" timestamp="2016-01-28T11:52:56Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9689536" lon="-39.0161358"/>
+ <node id="3973554984" visible="true" version="1" changeset="36855202" timestamp="2016-01-28T11:52:56Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9689540" lon="-39.0158409"/>
+ <node id="3973555038" visible="true" version="2" changeset="43159605" timestamp="2016-10-25T14:28:45Z" user="Thundercel" uid="82797" lat="-4.9725912" lon="-39.0162596"/>
+ <node id="3973555039" visible="true" version="2" changeset="43159605" timestamp="2016-10-25T14:28:45Z" user="Thundercel" uid="82797" lat="-4.9725915" lon="-39.0165938"/>
+ <node id="3973555043" visible="true" version="2" changeset="61920789" timestamp="2018-08-23T12:53:44Z" user="Cicero Costa" uid="4673010" lat="-4.9726618" lon="-39.0161537"/>
+ <node id="3973555048" visible="true" version="2" changeset="43159605" timestamp="2016-10-25T14:28:45Z" user="Thundercel" uid="82797" lat="-4.9728160" lon="-39.0162370"/>
+ <node id="3973555051" visible="true" version="2" changeset="43159605" timestamp="2016-10-25T14:28:45Z" user="Thundercel" uid="82797" lat="-4.9730632" lon="-39.0162352"/>
+ <node id="3973555056" visible="true" version="3" changeset="61920789" timestamp="2018-08-23T12:53:45Z" user="Cicero Costa" uid="4673010" lat="-4.9731780" lon="-39.0161480"/>
+ <node id="3973555057" visible="true" version="2" changeset="43159605" timestamp="2016-10-25T14:28:45Z" user="Thundercel" uid="82797" lat="-4.9733613" lon="-39.0165770"/>
+ <node id="3973555059" visible="true" version="2" changeset="43159605" timestamp="2016-10-25T14:28:45Z" user="Thundercel" uid="82797" lat="-4.9733597" lon="-39.0162396"/>
+ <node id="4019728843" visible="true" version="1" changeset="37366893" timestamp="2016-02-22T13:24:39Z" user="narceliodesa" uid="612405" lat="-4.9725866" lon="-39.0212776"/>
+ <node id="4028890577" visible="true" version="2" changeset="43159605" timestamp="2016-10-25T14:28:45Z" user="Thundercel" uid="82797" lat="-4.9738278" lon="-39.0139801"/>
+ <node id="4028890578" visible="true" version="2" changeset="43159605" timestamp="2016-10-25T14:28:45Z" user="Thundercel" uid="82797" lat="-4.9741705" lon="-39.0133118"/>
+ <node id="4038477088" visible="true" version="1" changeset="37587996" timestamp="2016-03-03T14:18:59Z" user="Klevinho Santos" uid="3653414" lat="-4.9726855" lon="-39.0139455"/>
+ <node id="4038479989" visible="true" version="1" changeset="37587996" timestamp="2016-03-03T14:18:59Z" user="Klevinho Santos" uid="3653414" lat="-4.9726828" lon="-39.0136638"/>
+ <node id="4038479990" visible="true" version="1" changeset="37587996" timestamp="2016-03-03T14:18:59Z" user="Klevinho Santos" uid="3653414" lat="-4.9728565" lon="-39.0136853"/>
+ <node id="4038479991" visible="true" version="1" changeset="37587996" timestamp="2016-03-03T14:19:00Z" user="Klevinho Santos" uid="3653414" lat="-4.9729206" lon="-39.0139106"/>
+ <node id="4051556931" visible="true" version="1" changeset="37715100" timestamp="2016-03-09T18:13:24Z" user="Klevinho Santos" uid="3653414" lat="-4.9688697" lon="-39.0176280"/>
+ <node id="4051556932" visible="true" version="1" changeset="37715100" timestamp="2016-03-09T18:13:24Z" user="Klevinho Santos" uid="3653414" lat="-4.9688773" lon="-39.0173502"/>
+ <node id="4051556933" visible="true" version="1" changeset="37715100" timestamp="2016-03-09T18:13:24Z" user="Klevinho Santos" uid="3653414" lat="-4.9689936" lon="-39.0173525"/>
+ <node id="4051556934" visible="true" version="1" changeset="37715100" timestamp="2016-03-09T18:13:24Z" user="Klevinho Santos" uid="3653414" lat="-4.9689901" lon="-39.0176292"/>
+ <node id="4051556935" visible="true" version="3" changeset="61920789" timestamp="2018-08-23T12:53:44Z" user="Cicero Costa" uid="4673010" lat="-4.9709295" lon="-39.0162267"/>
+ <node id="4051556936" visible="true" version="3" changeset="61920789" timestamp="2018-08-23T12:53:44Z" user="Cicero Costa" uid="4673010" lat="-4.9712864" lon="-39.0162261"/>
+ <node id="4051556937" visible="true" version="2" changeset="41397647" timestamp="2016-08-11T20:44:08Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9712954" lon="-39.0167726"/>
+ <node id="4051556938" visible="true" version="2" changeset="41397647" timestamp="2016-08-11T20:44:08Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9709357" lon="-39.0167774"/>
+ <node id="4051556939" visible="true" version="2" changeset="64586539" timestamp="2018-11-17T00:23:35Z" user="Cicero Costa" uid="4673010" lat="-4.9704899" lon="-39.0152327"/>
+ <node id="4051556940" visible="true" version="2" changeset="64586539" timestamp="2018-11-17T00:23:35Z" user="Cicero Costa" uid="4673010" lat="-4.9706686" lon="-39.0152295"/>
+ <node id="4051556941" visible="true" version="2" changeset="64586539" timestamp="2018-11-17T00:23:35Z" user="Cicero Costa" uid="4673010" lat="-4.9706740" lon="-39.0155323"/>
+ <node id="4051556942" visible="true" version="2" changeset="64586539" timestamp="2018-11-17T00:23:35Z" user="Cicero Costa" uid="4673010" lat="-4.9704952" lon="-39.0155355"/>
+ <node id="4051652978" visible="true" version="3" changeset="64586539" timestamp="2018-11-17T00:23:35Z" user="Cicero Costa" uid="4673010" lat="-4.9712210" lon="-39.0154841"/>
+ <node id="4051652979" visible="true" version="4" changeset="64586539" timestamp="2018-11-17T00:23:35Z" user="Cicero Costa" uid="4673010" lat="-4.9712156" lon="-39.0146993"/>
+ <node id="4051652980" visible="true" version="4" changeset="64586539" timestamp="2018-11-17T00:23:35Z" user="Cicero Costa" uid="4673010" lat="-4.9714830" lon="-39.0146975"/>
+ <node id="4051652981" visible="true" version="3" changeset="64586539" timestamp="2018-11-17T00:23:35Z" user="Cicero Costa" uid="4673010" lat="-4.9714884" lon="-39.0154823"/>
+ <node id="4051652982" visible="true" version="2" changeset="43159605" timestamp="2016-10-25T14:28:45Z" user="Thundercel" uid="82797" lat="-4.9751180" lon="-39.0159135"/>
+ <node id="4051652983" visible="true" version="2" changeset="43159605" timestamp="2016-10-25T14:28:45Z" user="Thundercel" uid="82797" lat="-4.9751712" lon="-39.0159292"/>
+ <node id="4051652984" visible="true" version="2" changeset="61866657" timestamp="2018-08-21T19:24:07Z" user="Cicero Costa" uid="4673010" lat="-4.9736221" lon="-39.0134778"/>
+ <node id="4051652985" visible="true" version="3" changeset="61866657" timestamp="2018-08-21T19:24:04Z" user="Cicero Costa" uid="4673010" lat="-4.9734336" lon="-39.0196840"/>
+ <node id="4051652986" visible="true" version="2" changeset="38575119" timestamp="2016-04-15T01:00:19Z" user="JHESSICA ALMEIDA" uid="3826902" lat="-4.9726008" lon="-39.0228168"/>
+ <node id="4051655893" visible="true" version="1" changeset="37716617" timestamp="2016-03-09T19:01:36Z" user="Klevinho Santos" uid="3653414" lat="-4.9743392" lon="-39.0216954"/>
+ <node id="4051655894" visible="true" version="2" changeset="61866657" timestamp="2018-08-21T19:24:04Z" user="Cicero Costa" uid="4673010" lat="-4.9742962" lon="-39.0181963"/>
+ <node id="4051655900" visible="true" version="2" changeset="41397647" timestamp="2016-08-11T20:44:08Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9736197" lon="-39.0162029"/>
+ <node id="4051655901" visible="true" version="2" changeset="41397647" timestamp="2016-08-11T20:44:08Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9737712" lon="-39.0161928"/>
+ <node id="4051655902" visible="true" version="2" changeset="41397647" timestamp="2016-08-11T20:44:08Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9737804" lon="-39.0163304"/>
+ <node id="4051655903" visible="true" version="2" changeset="41397647" timestamp="2016-08-11T20:44:08Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9736288" lon="-39.0163405"/>
+ <node id="4051758183" visible="true" version="1" changeset="37718836" timestamp="2016-03-09T20:14:51Z" user="Klevinho Santos" uid="3653414" lat="-4.9731818" lon="-39.0152645"/>
+ <node id="4051758184" visible="true" version="1" changeset="37718836" timestamp="2016-03-09T20:14:51Z" user="Klevinho Santos" uid="3653414" lat="-4.9732648" lon="-39.0150633"/>
+ <node id="4051758185" visible="true" version="1" changeset="37718836" timestamp="2016-03-09T20:14:51Z" user="Klevinho Santos" uid="3653414" lat="-4.9735159" lon="-39.0151101"/>
+ <node id="4051758186" visible="true" version="1" changeset="37718836" timestamp="2016-03-09T20:14:51Z" user="Klevinho Santos" uid="3653414" lat="-4.9735058" lon="-39.0153337"/>
+ <node id="4051758187" visible="true" version="1" changeset="37718836" timestamp="2016-03-09T20:14:51Z" user="Klevinho Santos" uid="3653414" lat="-4.9729622" lon="-39.0160198"/>
+ <node id="4051758188" visible="true" version="1" changeset="37718836" timestamp="2016-03-09T20:14:51Z" user="Klevinho Santos" uid="3653414" lat="-4.9731780" lon="-39.0153446"/>
+ <node id="4051764589" visible="true" version="1" changeset="37718836" timestamp="2016-03-09T20:14:51Z" user="Klevinho Santos" uid="3653414" lat="-4.9733944" lon="-39.0153797"/>
+ <node id="4051764590" visible="true" version="1" changeset="37718836" timestamp="2016-03-09T20:14:51Z" user="Klevinho Santos" uid="3653414" lat="-4.9733268" lon="-39.0160097"/>
+ <node id="4051764591" visible="true" version="2" changeset="41397647" timestamp="2016-08-11T20:44:08Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9735539" lon="-39.0160198"/>
+ <node id="4051764592" visible="true" version="2" changeset="41397647" timestamp="2016-08-11T20:44:08Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9735491" lon="-39.0157208"/>
+ <node id="4051764593" visible="true" version="2" changeset="41397647" timestamp="2016-08-11T20:44:08Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9738771" lon="-39.0157156"/>
+ <node id="4051764594" visible="true" version="2" changeset="41397647" timestamp="2016-08-11T20:44:08Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9738819" lon="-39.0160145"/>
+ <node id="4051764595" visible="true" version="2" changeset="41537057" timestamp="2016-08-18T15:57:30Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9694989" lon="-39.0143080"/>
+ <node id="4051764596" visible="true" version="2" changeset="41537057" timestamp="2016-08-18T15:57:30Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9697015" lon="-39.0143028"/>
+ <node id="4051764597" visible="true" version="2" changeset="41537057" timestamp="2016-08-18T15:57:30Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9697095" lon="-39.0146148"/>
+ <node id="4051764598" visible="true" version="2" changeset="41537057" timestamp="2016-08-18T15:57:30Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9695069" lon="-39.0146200"/>
+ <node id="4051863709" visible="true" version="1" changeset="37720312" timestamp="2016-03-09T21:00:45Z" user="Klevinho Santos" uid="3653414" lat="-4.9727749" lon="-39.0137974">
+  <tag k="man_made" v="wastewater_plant"/>
+  <tag k="name" v="E.E.E 01"/>
+ </node>
+ <node id="4132029925" visible="true" version="2" changeset="43159605" timestamp="2016-10-25T14:28:45Z" user="Thundercel" uid="82797" lat="-4.9718364" lon="-39.0119250">
+  <tag k="railway" v="level_crossing"/>
+ </node>
+ <node id="4356017693" visible="true" version="1" changeset="41537057" timestamp="2016-08-18T15:57:26Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9686132" lon="-39.0161236"/>
+ <node id="4356017694" visible="true" version="1" changeset="41537057" timestamp="2016-08-18T15:57:26Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9686133" lon="-39.0160430"/>
+ <node id="4356017695" visible="true" version="1" changeset="41537057" timestamp="2016-08-18T15:57:26Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9687625" lon="-39.0161238"/>
+ <node id="4356017696" visible="true" version="1" changeset="41537057" timestamp="2016-08-18T15:57:26Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9687626" lon="-39.0160432"/>
+ <node id="4356017697" visible="true" version="1" changeset="41537057" timestamp="2016-08-18T15:57:26Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9688922" lon="-39.0143689"/>
+ <node id="4356017698" visible="true" version="1" changeset="41537057" timestamp="2016-08-18T15:57:26Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9688969" lon="-39.0146021"/>
+ <node id="4356017699" visible="true" version="1" changeset="41537057" timestamp="2016-08-18T15:57:26Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9691758" lon="-39.0143631"/>
+ <node id="4356017700" visible="true" version="1" changeset="41537057" timestamp="2016-08-18T15:57:26Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9691805" lon="-39.0145964"/>
+ <node id="4356017705" visible="true" version="1" changeset="41537057" timestamp="2016-08-18T15:57:27Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9701191" lon="-39.0168579"/>
+ <node id="4356017706" visible="true" version="1" changeset="41537057" timestamp="2016-08-18T15:57:27Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9701202" lon="-39.0170237"/>
+ <node id="4356017707" visible="true" version="1" changeset="41537057" timestamp="2016-08-18T15:57:27Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9701954" lon="-39.0168574"/>
+ <node id="4356017708" visible="true" version="1" changeset="41537057" timestamp="2016-08-18T15:57:27Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9701964" lon="-39.0170232"/>
+ <node id="4356017709" visible="true" version="1" changeset="41537057" timestamp="2016-08-18T15:57:27Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9704061" lon="-39.0168529"/>
+ <node id="4356017710" visible="true" version="1" changeset="41537057" timestamp="2016-08-18T15:57:27Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9704078" lon="-39.0171199"/>
+ <node id="4356017711" visible="true" version="1" changeset="41537057" timestamp="2016-08-18T15:57:27Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9704767" lon="-39.0168524"/>
+ <node id="4356017712" visible="true" version="1" changeset="41537057" timestamp="2016-08-18T15:57:27Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9704784" lon="-39.0171194"/>
+ <node id="4356017713" visible="true" version="1" changeset="41537057" timestamp="2016-08-18T15:57:27Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9713529" lon="-39.0162179"/>
+ <node id="4356017714" visible="true" version="1" changeset="41537057" timestamp="2016-08-18T15:57:27Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9713619" lon="-39.0166365"/>
+ <node id="4356017715" visible="true" version="1" changeset="41537057" timestamp="2016-08-18T15:57:27Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9714844" lon="-39.0162151"/>
+ <node id="4356017716" visible="true" version="1" changeset="41537057" timestamp="2016-08-18T15:57:27Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9714934" lon="-39.0166337"/>
+ <node id="4359486584" visible="true" version="1" changeset="41585168" timestamp="2016-08-21T01:04:23Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9722991" lon="-39.0163522"/>
+ <node id="4359486585" visible="true" version="1" changeset="41585168" timestamp="2016-08-21T01:04:23Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9723424" lon="-39.0162178"/>
+ <node id="4359486586" visible="true" version="1" changeset="41585168" timestamp="2016-08-21T01:04:23Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9723841" lon="-39.0163798"/>
+ <node id="4359486587" visible="true" version="1" changeset="41585168" timestamp="2016-08-21T01:04:23Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9724273" lon="-39.0162454"/>
+ <node id="4359489107" visible="true" version="1" changeset="41585205" timestamp="2016-08-21T01:10:59Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9714759" lon="-39.0141861"/>
+ <node id="4359489108" visible="true" version="1" changeset="41585205" timestamp="2016-08-21T01:10:59Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9715242" lon="-39.0141313"/>
+ <node id="4359489109" visible="true" version="1" changeset="41585205" timestamp="2016-08-21T01:10:59Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9715579" lon="-39.0142590"/>
+ <node id="4359489110" visible="true" version="1" changeset="41585205" timestamp="2016-08-21T01:10:59Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9716062" lon="-39.0142042"/>
+ <node id="4463474060" visible="true" version="1" changeset="43159605" timestamp="2016-10-25T14:28:20Z" user="Thundercel" uid="82797" lat="-4.9696779" lon="-39.0106499"/>
+ <node id="4463474061" visible="true" version="2" changeset="61920789" timestamp="2018-08-23T12:53:44Z" user="Cicero Costa" uid="4673010" lat="-4.9721618" lon="-39.0161060"/>
+ <node id="4463474062" visible="true" version="2" changeset="61920789" timestamp="2018-08-23T12:53:44Z" user="Cicero Costa" uid="4673010" lat="-4.9721639" lon="-39.0161683"/>
+ <node id="4463474063" visible="true" version="3" changeset="61920789" timestamp="2018-08-23T12:53:45Z" user="Cicero Costa" uid="4673010" lat="-4.9733500" lon="-39.0161447"/>
+ <node id="4463474064" visible="true" version="2" changeset="61920789" timestamp="2018-08-23T12:53:44Z" user="Cicero Costa" uid="4673010" lat="-4.9735953" lon="-39.0160768"/>
+ <node id="4463474065" visible="true" version="3" changeset="61920789" timestamp="2018-08-23T12:53:45Z" user="Cicero Costa" uid="4673010" lat="-4.9738026" lon="-39.0161459"/>
+ <node id="4463474066" visible="true" version="2" changeset="61920789" timestamp="2018-08-23T12:53:44Z" user="Cicero Costa" uid="4673010" lat="-4.9741467" lon="-39.0160662"/>
+ <node id="4463474067" visible="true" version="3" changeset="61920789" timestamp="2018-08-23T12:53:45Z" user="Cicero Costa" uid="4673010" lat="-4.9741477" lon="-39.0161434"/>
+ <node id="4463474068" visible="true" version="3" changeset="61920789" timestamp="2018-08-23T12:53:45Z" user="Cicero Costa" uid="4673010" lat="-4.9742911" lon="-39.0161423"/>
+ <node id="4463474069" visible="true" version="2" changeset="61920789" timestamp="2018-08-23T12:53:44Z" user="Cicero Costa" uid="4673010" lat="-4.9745131" lon="-39.0160629"/>
+ <node id="4463474070" visible="true" version="3" changeset="61920789" timestamp="2018-08-23T12:53:45Z" user="Cicero Costa" uid="4673010" lat="-4.9745148" lon="-39.0161418"/>
+ <node id="4463474071" visible="true" version="2" changeset="61920789" timestamp="2018-08-23T12:53:44Z" user="Cicero Costa" uid="4673010" lat="-4.9747782" lon="-39.0160600"/>
+ <node id="4463474072" visible="true" version="3" changeset="61920789" timestamp="2018-08-23T12:53:45Z" user="Cicero Costa" uid="4673010" lat="-4.9757089" lon="-39.0160465"/>
+ <node id="4663215997" visible="true" version="3" changeset="45870074" timestamp="2017-02-06T23:30:20Z" user="Cicero Costa" uid="4673010" lat="-4.9733443" lon="-39.0149253"/>
+ <node id="4663215998" visible="true" version="1" changeset="45804852" timestamp="2017-02-04T13:08:22Z" user="Cicero Costa" uid="4673010" lat="-4.9729193" lon="-39.0146168"/>
+ <node id="4663215999" visible="true" version="1" changeset="45804852" timestamp="2017-02-04T13:08:22Z" user="Cicero Costa" uid="4673010" lat="-4.9729964" lon="-39.0146131"/>
+ <node id="4663216000" visible="true" version="1" changeset="45804852" timestamp="2017-02-04T13:08:22Z" user="Cicero Costa" uid="4673010" lat="-4.9729958" lon="-39.0146453"/>
+ <node id="4663216001" visible="true" version="3" changeset="45870074" timestamp="2017-02-06T23:30:20Z" user="Cicero Costa" uid="4673010" lat="-4.9732494" lon="-39.0146371"/>
+ <node id="4663218600" visible="true" version="1" changeset="45804852" timestamp="2017-02-04T13:08:51Z" user="Cicero Costa" uid="4673010" lat="-4.9726939" lon="-39.0143316">
+  <tag k="building" v="yes"/>
+  <tag k="comment" v="SEBRAE"/>
+  <tag k="name" v="SEBRAE"/>
+ </node>
+ <node id="4663218601" visible="true" version="2" changeset="45870074" timestamp="2017-02-06T23:30:21Z" user="Cicero Costa" uid="4673010" lat="-4.9728648" lon="-39.0144577">
+  <tag k="building" v="yes"/>
+  <tag k="comment" v="CDL Câmara de Dirigentes Logistas Quixadá"/>
+  <tag k="name" v="CDL Câmara de Dirigentes Logistas Quixadá"/>
+  <tag k="symbol" v="Building"/>
+ </node>
+ <node id="4663218602" visible="true" version="2" changeset="45839187" timestamp="2017-02-05T20:23:23Z" user="Cicero Costa" uid="4673010" lat="-4.9731238" lon="-39.0147065">
+  <tag k="comment" v="Praça Maria Esther Cavalcante Costa"/>
+  <tag k="leisure" v="park"/>
+  <tag k="name" v="Praça Maria Esther Cavalcante Costa"/>
+  <tag k="symbol" v="Park"/>
+ </node>
+ <node id="4663218637" visible="true" version="4" changeset="55227153" timestamp="2018-01-07T04:15:24Z" user="Cicero Costa" uid="4673010" lat="-4.9701177" lon="-39.0164745">
+  <tag k="comment" v="Casa do Bolo"/>
+  <tag k="name" v="Casa do Bolo"/>
+  <tag k="shop" v="bakery"/>
+ </node>
+ <node id="4663218683" visible="true" version="3" changeset="61920789" timestamp="2018-08-23T12:53:44Z" user="Cicero Costa" uid="4673010" lat="-4.9680827" lon="-39.0162077">
+  <tag k="comment" v="Trilha Pedra do Cruzeiro (Quixadá)"/>
+  <tag k="name" v="Trilha Pedra do Cruzeiro (Quixadá)"/>
+  <tag k="symbol" v="Trail Head"/>
+  <tag k="tourism" v="attraction"/>
+ </node>
+ <node id="4663218691" visible="true" version="1" changeset="45804852" timestamp="2017-02-04T13:08:56Z" user="Cicero Costa" uid="4673010" lat="-4.9700084" lon="-39.0155394">
+  <tag k="building" v="yes"/>
+  <tag k="comment" v="HSH"/>
+  <tag k="name" v="HSH"/>
+  <tag k="symbol" v="Building"/>
+ </node>
+ <node id="4663218692" visible="true" version="1" changeset="45804852" timestamp="2017-02-04T13:08:57Z" user="Cicero Costa" uid="4673010" lat="-4.9701418" lon="-39.0155279">
+  <tag k="comment" v="Memorial Cego Alderado"/>
+  <tag k="name" v="Memorial Cego Alderado"/>
+  <tag k="symbol" v="Museum"/>
+  <tag k="tourism" v="museum"/>
+ </node>
+ <node id="4663218693" visible="true" version="1" changeset="45804852" timestamp="2017-02-04T13:08:57Z" user="Cicero Costa" uid="4673010" lat="-4.9701180" lon="-39.0162583">
+  <tag k="comment" v="Casa São José"/>
+  <tag k="name" v="Casa São José"/>
+  <tag k="shop" v="clothes"/>
+  <tag k="symbol" v="Store"/>
+ </node>
+ <node id="4665935117" visible="true" version="1" changeset="45837680" timestamp="2017-02-05T19:12:13Z" user="Cicero Costa" uid="4673010" lat="-4.9732035" lon="-39.0147636">
+  <tag k="name" v="Ávore"/>
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="4665935118" visible="true" version="1" changeset="45837680" timestamp="2017-02-05T19:12:13Z" user="Cicero Costa" uid="4673010" lat="-4.9730405" lon="-39.0146737">
+  <tag k="name" v="Ávore"/>
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="4665935119" visible="true" version="1" changeset="45837680" timestamp="2017-02-05T19:12:13Z" user="Cicero Costa" uid="4673010" lat="-4.9731113" lon="-39.0147105">
+  <tag k="name" v="Ávore"/>
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="4670196884" visible="true" version="2" changeset="47370394" timestamp="2017-04-02T00:20:58Z" user="Cicero Costa" uid="4673010" lat="-4.9727922" lon="-39.0144019"/>
+ <node id="4670196885" visible="true" version="2" changeset="47370394" timestamp="2017-04-02T00:20:58Z" user="Cicero Costa" uid="4673010" lat="-4.9730967" lon="-39.0143908"/>
+ <node id="4670196886" visible="true" version="2" changeset="47370394" timestamp="2017-04-02T00:20:58Z" user="Cicero Costa" uid="4673010" lat="-4.9731004" lon="-39.0144927"/>
+ <node id="4670196887" visible="true" version="2" changeset="47370394" timestamp="2017-04-02T00:20:58Z" user="Cicero Costa" uid="4673010" lat="-4.9727959" lon="-39.0145038"/>
+ <node id="4696383365" visible="true" version="1" changeset="46259245" timestamp="2017-02-20T23:19:27Z" user="Cicero Costa" uid="4673010" lat="-4.9699983" lon="-39.0165468"/>
+ <node id="4696383366" visible="true" version="1" changeset="46259245" timestamp="2017-02-20T23:19:27Z" user="Cicero Costa" uid="4673010" lat="-4.9699971" lon="-39.0164471"/>
+ <node id="4696383367" visible="true" version="1" changeset="46259245" timestamp="2017-02-20T23:19:27Z" user="Cicero Costa" uid="4673010" lat="-4.9696970" lon="-39.0164555"/>
+ <node id="4696383368" visible="true" version="1" changeset="46259245" timestamp="2017-02-20T23:19:27Z" user="Cicero Costa" uid="4673010" lat="-4.9696994" lon="-39.0165552"/>
+ <node id="4700168960" visible="true" version="1" changeset="46321606" timestamp="2017-02-22T22:44:40Z" user="Cicero Costa" uid="4673010" lat="-4.9705281" lon="-39.0165179"/>
+ <node id="4700168961" visible="true" version="1" changeset="46321606" timestamp="2017-02-22T22:44:40Z" user="Cicero Costa" uid="4673010" lat="-4.9705264" lon="-39.0162509"/>
+ <node id="4700168962" visible="true" version="1" changeset="46321606" timestamp="2017-02-22T22:44:40Z" user="Cicero Costa" uid="4673010" lat="-4.9705970" lon="-39.0162504"/>
+ <node id="4700168963" visible="true" version="1" changeset="46321606" timestamp="2017-02-22T22:44:40Z" user="Cicero Costa" uid="4673010" lat="-4.9705987" lon="-39.0165174"/>
+ <node id="4753895495" visible="true" version="2" changeset="61866657" timestamp="2018-08-21T19:24:03Z" user="Cicero Costa" uid="4673010" lat="-4.9713497" lon="-39.0176695"/>
+ <node id="4753895496" visible="true" version="1" changeset="47139457" timestamp="2017-03-25T03:59:36Z" user="patodiez" uid="1856060" lat="-4.9718730" lon="-39.0176600"/>
+ <node id="4753895507" visible="true" version="2" changeset="61866657" timestamp="2018-08-21T19:24:06Z" user="Cicero Costa" uid="4673010" lat="-4.9715141" lon="-39.0132996"/>
+ <node id="4753895508" visible="true" version="2" changeset="61866657" timestamp="2018-08-21T19:24:07Z" user="Cicero Costa" uid="4673010" lat="-4.9715512" lon="-39.0138423"/>
+ <node id="4753895515" visible="true" version="1" changeset="47139457" timestamp="2017-03-25T03:59:36Z" user="patodiez" uid="1856060" lat="-4.9766664" lon="-39.0111500"/>
+ <node id="4806682266" visible="true" version="1" changeset="47987152" timestamp="2017-04-20T23:38:07Z" user="MarceloUFC" uid="5704860" lat="-4.9714169" lon="-39.0141967">
+  <tag k="man_made" v="yes"/>
+  <tag k="name" v="Estátua da Raquel de Queiroz"/>
+ </node>
+ <node id="4829460865" visible="true" version="1" changeset="48318193" timestamp="2017-05-01T20:47:43Z" user="Cicero Costa" uid="4673010" lat="-4.9809067" lon="-39.0070215"/>
+ <node id="4829461035" visible="true" version="2" changeset="49900488" timestamp="2017-06-28T19:31:35Z" user="Gledson" uid="2572615" lat="-4.9801413" lon="-39.0077731"/>
+ <node id="4829461036" visible="true" version="2" changeset="49900488" timestamp="2017-06-28T19:31:35Z" user="Gledson" uid="2572615" lat="-4.9800599" lon="-39.0078341"/>
+ <node id="4901926216" visible="true" version="1" changeset="49335693" timestamp="2017-06-07T13:09:55Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9744946" lon="-39.0115479"/>
+ <node id="4901926217" visible="true" version="1" changeset="49335693" timestamp="2017-06-07T13:09:55Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9741855" lon="-39.0116767"/>
+ <node id="4901926218" visible="true" version="1" changeset="49335693" timestamp="2017-06-07T13:09:55Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9737390" lon="-39.0117495"/>
+ <node id="4901926219" visible="true" version="1" changeset="49335693" timestamp="2017-06-07T13:09:55Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9734793" lon="-39.0118270"/>
+ <node id="4901926220" visible="true" version="1" changeset="49335693" timestamp="2017-06-07T13:09:55Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9731878" lon="-39.0120594"/>
+ <node id="4901926221" visible="true" version="1" changeset="49335693" timestamp="2017-06-07T13:09:55Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9730283" lon="-39.0122826"/>
+ <node id="4901926222" visible="true" version="1" changeset="49335693" timestamp="2017-06-07T13:09:55Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9729600" lon="-39.0124466"/>
+ <node id="4901926223" visible="true" version="1" changeset="49335693" timestamp="2017-06-07T13:09:55Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9728825" lon="-39.0127109"/>
+ <node id="4901926224" visible="true" version="1" changeset="49335693" timestamp="2017-06-07T13:09:55Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9728415" lon="-39.0129751"/>
+ <node id="4901926225" visible="true" version="1" changeset="49335693" timestamp="2017-06-07T13:09:55Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9727640" lon="-39.0132576"/>
+ <node id="4901926226" visible="true" version="1" changeset="49335693" timestamp="2017-06-07T13:09:55Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9727185" lon="-39.0135264"/>
+ <node id="5213018455" visible="true" version="2" changeset="53541438" timestamp="2017-11-05T22:47:56Z" user="Cicero Costa" uid="4673010" lat="-4.9708559" lon="-39.0157715">
+  <tag k="amenity" v="school"/>
+  <tag k="comment" v="Colégio Sagrado Coração de Jesus"/>
+ </node>
+ <node id="5226347308" visible="true" version="2" changeset="53741897" timestamp="2017-11-13T14:24:11Z" user="Cicero Costa" uid="4673010" lat="-4.9706900" lon="-39.0173012">
+  <tag k="amenity" v="public_building"/>
+  <tag k="comment" v="Cartório Julio Miranda 1 Zona 2 Ofício"/>
+  <tag k="leisure" v="yes"/>
+  <tag k="name" v="Cartório Julio Miranda 1 Zona 2 Ofício"/>
+  <tag k="office" v="government"/>
+ </node>
+ <node id="5226521623" visible="true" version="2" changeset="64586539" timestamp="2018-11-17T00:23:35Z" user="Cicero Costa" uid="4673010" lat="-4.9694080" lon="-39.0146125"/>
+ <node id="5226521624" visible="true" version="2" changeset="64586539" timestamp="2018-11-17T00:23:35Z" user="Cicero Costa" uid="4673010" lat="-4.9694779" lon="-39.0146105"/>
+ <node id="5226521625" visible="true" version="2" changeset="64586539" timestamp="2018-11-17T00:23:35Z" user="Cicero Costa" uid="4673010" lat="-4.9694705" lon="-39.0143606"/>
+ <node id="5226521626" visible="true" version="2" changeset="64586539" timestamp="2018-11-17T00:23:35Z" user="Cicero Costa" uid="4673010" lat="-4.9694006" lon="-39.0143627"/>
+ <node id="5252888997" visible="true" version="2" changeset="61920789" timestamp="2018-08-23T12:53:45Z" user="Cicero Costa" uid="4673010" lat="-4.9716812" lon="-39.0155429"/>
+ <node id="5307484266" visible="true" version="2" changeset="54985034" timestamp="2017-12-28T14:45:25Z" user="Cicero Costa" uid="4673010" lat="-4.9700589" lon="-39.0158932">
+  <tag k="information" v="map"/>
+  <tag k="map_type" v="topo"/>
+  <tag k="tourism" v="information"/>
+ </node>
+ <node id="5308167928" visible="true" version="1" changeset="54978495" timestamp="2017-12-28T10:07:38Z" user="Cicero Costa" uid="4673010" lat="-4.9708751" lon="-39.0160629"/>
+ <node id="5308167929" visible="true" version="1" changeset="54978495" timestamp="2017-12-28T10:07:38Z" user="Cicero Costa" uid="4673010" lat="-4.9708404" lon="-39.0159473"/>
+ <node id="5308167930" visible="true" version="1" changeset="54978495" timestamp="2017-12-28T10:07:38Z" user="Cicero Costa" uid="4673010" lat="-4.9711134" lon="-39.0158697"/>
+ <node id="5308167931" visible="true" version="1" changeset="54978495" timestamp="2017-12-28T10:07:38Z" user="Cicero Costa" uid="4673010" lat="-4.9711489" lon="-39.0159909"/>
+ <node id="5308167932" visible="true" version="4" changeset="59992644" timestamp="2018-06-19T22:43:56Z" user="naoliv" uid="463507" lat="-4.9690735" lon="-39.0170366">
+  <tag k="government" v="legislative"/>
+  <tag k="name" v="Câmara Municipal de Quixadá"/>
+  <tag k="office" v="government"/>
+ </node>
+ <node id="5308472560" visible="true" version="1" changeset="54984499" timestamp="2017-12-28T14:19:39Z" user="Cicero Costa" uid="4673010" lat="-4.9699646" lon="-39.0160526">
+  <tag k="shop" v="newsagent"/>
+ </node>
+ <node id="5308489396" visible="true" version="3" changeset="61920789" timestamp="2018-08-23T12:53:45Z" user="Cicero Costa" uid="4673010" lat="-4.9698404" lon="-39.0156776">
+  <tag k="amenity" v="bench"/>
+ </node>
+ <node id="5308491799" visible="true" version="2" changeset="54985034" timestamp="2017-12-28T14:45:25Z" user="Cicero Costa" uid="4673010" lat="-4.9698412" lon="-39.0160772">
+  <tag k="amenity" v="bench"/>
+ </node>
+ <node id="5308491934" visible="true" version="3" changeset="61920789" timestamp="2018-08-23T12:53:45Z" user="Cicero Costa" uid="4673010" lat="-4.9699300" lon="-39.0158828">
+  <tag k="information" v="guidepost"/>
+  <tag k="name" v="Leão (Histórico)"/>
+  <tag k="tourism" v="information"/>
+ </node>
+ <node id="5308491935" visible="true" version="3" changeset="61920789" timestamp="2018-08-23T12:53:45Z" user="Cicero Costa" uid="4673010" lat="-4.9700730" lon="-39.0160734">
+  <tag k="amenity" v="bench"/>
+ </node>
+ <node id="5308492222" visible="true" version="3" changeset="61920789" timestamp="2018-08-23T12:53:45Z" user="Cicero Costa" uid="4673010" lat="-4.9700573" lon="-39.0156753">
+  <tag k="amenity" v="bench"/>
+ </node>
+ <node id="5330182333" visible="true" version="1" changeset="55307423" timestamp="2018-01-09T23:24:39Z" user="Cicero Costa" uid="4673010" lat="-4.9709836" lon="-39.0164336">
+  <tag k="man_made" v="tower"/>
+  <tag k="tower:type" v="communication"/>
+ </node>
+ <node id="5846847030" visible="true" version="1" changeset="61866657" timestamp="2018-08-21T19:24:03Z" user="Cicero Costa" uid="4673010" lat="-4.9754339" lon="-39.0125509"/>
+ <node id="5851393846" visible="true" version="1" changeset="61920789" timestamp="2018-08-23T12:53:44Z" user="Cicero Costa" uid="4673010" lat="-4.9756820" lon="-39.0161053"/>
+ <node id="5851393847" visible="true" version="1" changeset="61920789" timestamp="2018-08-23T12:53:44Z" user="Cicero Costa" uid="4673010" lat="-4.9725099" lon="-39.0149592"/>
+ <node id="6067573506" visible="true" version="1" changeset="64586539" timestamp="2018-11-17T00:23:35Z" user="Cicero Costa" uid="4673010" lat="-4.9700698" lon="-39.0150100"/>
+ <node id="6067573507" visible="true" version="1" changeset="64586539" timestamp="2018-11-17T00:23:35Z" user="Cicero Costa" uid="4673010" lat="-4.9702450" lon="-39.0150076"/>
+ <node id="6067573508" visible="true" version="1" changeset="64586539" timestamp="2018-11-17T00:23:35Z" user="Cicero Costa" uid="4673010" lat="-4.9702522" lon="-39.0155324"/>
+ <node id="6067573509" visible="true" version="1" changeset="64586539" timestamp="2018-11-17T00:23:35Z" user="Cicero Costa" uid="4673010" lat="-4.9700770" lon="-39.0155348"/>
+ <node id="6278396774" visible="true" version="1" changeset="67190884" timestamp="2019-02-14T11:44:13Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9741978" lon="-39.0164752"/>
+ <node id="6278396775" visible="true" version="1" changeset="67190884" timestamp="2019-02-14T11:44:13Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9741795" lon="-39.0161655"/>
+ <node id="6278396776" visible="true" version="1" changeset="67190884" timestamp="2019-02-14T11:44:13Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9741492" lon="-39.0164781"/>
+ <node id="6278396777" visible="true" version="1" changeset="67190884" timestamp="2019-02-14T11:44:13Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9741309" lon="-39.0161684"/>
+ <node id="6278396778" visible="true" version="1" changeset="67190884" timestamp="2019-02-14T11:44:13Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9739913" lon="-39.0161767"/>
+ <node id="6278396779" visible="true" version="1" changeset="67190884" timestamp="2019-02-14T11:44:13Z" user="Daniel de Góes Nepomuceno" uid="1717892" lat="-4.9740096" lon="-39.0164864"/>
+ <way id="23328858" visible="true" version="2" changeset="13352919" timestamp="2012-10-03T20:05:14Z" user="martinportmann" uid="359938">
+  <nd ref="252615529"/>
+  <nd ref="252616801"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="23328864" visible="true" version="9" changeset="43159605" timestamp="2016-10-25T14:28:43Z" user="Thundercel" uid="82797">
+  <nd ref="2633398094"/>
+  <nd ref="2068982579"/>
+  <nd ref="2068982576"/>
+  <nd ref="252616261"/>
+  <nd ref="252615600"/>
+  <nd ref="252616801"/>
+  <nd ref="3916347810"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Rua Tabelião Enéas"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="23328869" visible="true" version="7" changeset="43834318" timestamp="2016-11-20T23:01:09Z" user="Daniel de Góes Nepomuceno" uid="1717892">
+  <nd ref="252616152"/>
+  <nd ref="2633376342"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="165830692" visible="true" version="11" changeset="43834318" timestamp="2016-11-20T23:01:13Z" user="Daniel de Góes Nepomuceno" uid="1717892">
+  <nd ref="1866429826"/>
+  <nd ref="1867610456"/>
+  <nd ref="1866474362"/>
+  <nd ref="4463474060"/>
+  <nd ref="1867619421"/>
+  <nd ref="1867619416"/>
+  <nd ref="1867610459"/>
+  <nd ref="1773581852"/>
+  <nd ref="2068982566"/>
+  <nd ref="2068982567"/>
+  <nd ref="3793671340"/>
+  <nd ref="2068982568"/>
+  <nd ref="2068982569"/>
+  <nd ref="1868898578"/>
+  <nd ref="1868898610"/>
+  <nd ref="1773581853"/>
+  <nd ref="1773581856"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="name" v="Rua Rodrigues Júnior"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="ref" v="CE-265"/>
+ </way>
+ <way id="176359072" visible="true" version="4" changeset="37986513" timestamp="2016-03-21T21:02:06Z" user="Klevinho Santos" uid="3653414">
+  <nd ref="1868898592"/>
+  <nd ref="1868898588"/>
+  <nd ref="1868898578"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Rua José Maria Rocha"/>
+ </way>
+ <way id="176359073" visible="true" version="2" changeset="36241940" timestamp="2015-12-29T14:13:33Z" user="Daniel de Góes Nepomuceno" uid="1717892">
+  <nd ref="1868898516"/>
+  <nd ref="1868898590"/>
+  <nd ref="1868898586"/>
+  <nd ref="1868898579"/>
+  <nd ref="1868898547"/>
+  <nd ref="1868898584"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="176359074" visible="true" version="4" changeset="20025615" timestamp="2014-01-16T00:47:58Z" user="TrevorInserts" uid="1854688">
+  <nd ref="1868898588"/>
+  <nd ref="2068982562"/>
+  <nd ref="1868898612"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Rua Eudásio Barroso"/>
+ </way>
+ <way id="176359076" visible="true" version="7" changeset="38684343" timestamp="2016-04-19T04:50:37Z" user="dbusse" uid="149876">
+  <nd ref="1868898589"/>
+  <nd ref="2068982573"/>
+  <nd ref="2068982572"/>
+  <nd ref="3793671341"/>
+  <nd ref="2068982571"/>
+  <nd ref="1868082237"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Rua José de Alencar"/>
+ </way>
+ <way id="176359077" visible="true" version="5" changeset="47139457" timestamp="2017-03-25T03:59:43Z" user="patodiez" uid="1856060">
+  <nd ref="1868898539"/>
+  <nd ref="1868898580"/>
+  <nd ref="4753895507"/>
+  <nd ref="2068982572"/>
+  <nd ref="2068982568"/>
+  <nd ref="1868898612"/>
+  <nd ref="1868898555"/>
+  <nd ref="1868898520"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Rua Clarindo de Queiroz"/>
+ </way>
+ <way id="176359078" visible="true" version="2" changeset="36241940" timestamp="2015-12-29T14:13:33Z" user="Daniel de Góes Nepomuceno" uid="1717892">
+  <nd ref="1868898579"/>
+  <nd ref="1868898576"/>
+  <nd ref="1868898581"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="176359079" visible="true" version="3" changeset="36241940" timestamp="2015-12-29T14:13:32Z" user="Daniel de Góes Nepomuceno" uid="1717892">
+  <nd ref="1868898522"/>
+  <nd ref="1868898539"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Rua Benjamin Barroso"/>
+ </way>
+ <way id="176359080" visible="true" version="5" changeset="43159605" timestamp="2016-10-25T14:28:40Z" user="Thundercel" uid="82797">
+  <nd ref="2068982581"/>
+  <nd ref="2068982573"/>
+  <nd ref="2068982569"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="name" v="Rua José Jucá"/>
+ </way>
+ <way id="176359082" visible="true" version="7" changeset="64586539" timestamp="2018-11-17T00:23:35Z" user="Cicero Costa" uid="4673010">
+  <nd ref="1868898545"/>
+  <nd ref="5252888997"/>
+  <nd ref="1868898597"/>
+  <nd ref="1868898589"/>
+  <nd ref="1868898610"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Rua Pascoal Crispino"/>
+ </way>
+ <way id="176359083" visible="true" version="12" changeset="61866657" timestamp="2018-08-21T19:24:08Z" user="Cicero Costa" uid="4673010">
+  <nd ref="1773581982"/>
+  <nd ref="4829460865"/>
+  <nd ref="4829461035"/>
+  <nd ref="4829461036"/>
+  <nd ref="1868898562"/>
+  <nd ref="1868898546"/>
+  <nd ref="1868898538"/>
+  <nd ref="1868898595"/>
+  <nd ref="3793673765"/>
+  <nd ref="4753895515"/>
+  <nd ref="1773581955"/>
+  <nd ref="3793671346"/>
+  <nd ref="1868898560"/>
+  <nd ref="5846847030"/>
+  <nd ref="1868898559"/>
+  <nd ref="1868898583"/>
+  <nd ref="1868898551"/>
+  <nd ref="4051652984"/>
+  <nd ref="1868898542"/>
+  <nd ref="1868898539"/>
+  <tag k="highway" v="unclassified"/>
+  <tag k="name" v="Rua Juvêncio Alves"/>
+ </way>
+ <way id="176359084" visible="true" version="5" changeset="61920789" timestamp="2018-08-23T12:53:46Z" user="Cicero Costa" uid="4673010">
+  <nd ref="1868898541"/>
+  <nd ref="1868898574"/>
+  <nd ref="5851393847"/>
+  <nd ref="1868898522"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Rua Benjamin Barroso"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="176359085" visible="true" version="2" changeset="13352919" timestamp="2012-10-03T20:05:13Z" user="martinportmann" uid="359938">
+  <nd ref="1868898587"/>
+  <nd ref="1868898597"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="176359676" visible="true" version="9" changeset="43159605" timestamp="2016-10-25T14:28:40Z" user="Thundercel" uid="82797">
+  <nd ref="4051655893"/>
+  <nd ref="3793680803"/>
+  <nd ref="3793680808"/>
+  <nd ref="3793680811"/>
+  <nd ref="2633398153"/>
+  <nd ref="3793680802"/>
+  <nd ref="1868903735"/>
+  <nd ref="3793680792"/>
+  <nd ref="4051655894"/>
+  <nd ref="2633398150"/>
+  <nd ref="2068982584"/>
+  <nd ref="1868903742"/>
+  <nd ref="2633376333"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Rua Estudante A. Brito"/>
+ </way>
+ <way id="176359677" visible="true" version="10" changeset="47139457" timestamp="2017-03-25T03:59:43Z" user="patodiez" uid="1856060">
+  <nd ref="1868903739"/>
+  <nd ref="2633398100"/>
+  <nd ref="3793680790"/>
+  <nd ref="4753895495"/>
+  <nd ref="2068982575"/>
+  <nd ref="2068982576"/>
+  <nd ref="2633376339"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Rua Laerte Pinheiro"/>
+ </way>
+ <way id="257883646" visible="true" version="5" changeset="43159605" timestamp="2016-10-25T14:28:40Z" user="Thundercel" uid="82797">
+  <nd ref="252616018"/>
+  <nd ref="3793680789"/>
+  <nd ref="252616203"/>
+  <nd ref="2014760294"/>
+  <nd ref="2014760295"/>
+  <nd ref="2014760293"/>
+  <nd ref="2633376257"/>
+  <nd ref="2633376258"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Rua Doutor Eudásio Barroso"/>
+ </way>
+ <way id="257884594" visible="true" version="6" changeset="61920789" timestamp="2018-08-23T12:53:46Z" user="Cicero Costa" uid="4673010">
+  <nd ref="2633398095"/>
+  <nd ref="2633376337"/>
+  <nd ref="3973555043"/>
+  <nd ref="2633376336"/>
+  <nd ref="3973555056"/>
+  <nd ref="4463474063"/>
+  <nd ref="2633376335"/>
+  <nd ref="2633376334"/>
+  <nd ref="4463474065"/>
+  <nd ref="4463474067"/>
+  <nd ref="2633376333"/>
+  <nd ref="4463474068"/>
+  <nd ref="4463474070"/>
+  <nd ref="2633376332"/>
+  <nd ref="2633376331"/>
+  <nd ref="5851393846"/>
+  <nd ref="2633376330"/>
+  <nd ref="1868931752"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="name" v="Avenida Plácido Castelo"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="ref" v="CE-060"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="257888933" visible="true" version="3" changeset="43522325" timestamp="2016-11-09T23:33:23Z" user="André Alvarenga" uid="94659">
+  <nd ref="2633398095"/>
+  <nd ref="2633398094"/>
+  <nd ref="2633398092"/>
+  <nd ref="2633398090"/>
+  <nd ref="2633398088"/>
+  <nd ref="2633398086"/>
+  <nd ref="2633398084"/>
+  <nd ref="2633398078"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="lanes" v="2"/>
+  <tag k="name" v="Rua José Caetano"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="257888937" visible="true" version="5" changeset="43834318" timestamp="2016-11-20T23:01:18Z" user="Daniel de Góes Nepomuceno" uid="1717892">
+  <nd ref="2633376337"/>
+  <nd ref="2633398097"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="257888940" visible="true" version="4" changeset="43834318" timestamp="2016-11-20T23:01:18Z" user="Daniel de Góes Nepomuceno" uid="1717892">
+  <nd ref="1868898541"/>
+  <nd ref="2633398095"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="257888958" visible="true" version="3" changeset="38684343" timestamp="2016-04-19T04:50:43Z" user="dbusse" uid="149876">
+  <nd ref="2633398147"/>
+  <nd ref="2633398148"/>
+  <nd ref="2633398149"/>
+  <nd ref="2633398150"/>
+  <nd ref="2633398151"/>
+  <nd ref="2633398152"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Travessa Aristides Gonçalves da Silva"/>
+ </way>
+ <way id="258498432" visible="true" version="9" changeset="61866657" timestamp="2018-08-21T19:24:08Z" user="Cicero Costa" uid="4673010">
+  <nd ref="2633376323"/>
+  <nd ref="2633376324"/>
+  <nd ref="252616453"/>
+  <nd ref="2633376326"/>
+  <nd ref="2638422753"/>
+  <nd ref="2638422756"/>
+  <nd ref="2638422759"/>
+  <nd ref="2638422762"/>
+  <nd ref="2638422765"/>
+  <nd ref="2638422768"/>
+  <nd ref="4028890578"/>
+  <nd ref="1868898551"/>
+  <nd ref="2638422770"/>
+  <nd ref="4028890577"/>
+  <nd ref="2638422772"/>
+  <nd ref="4663216001"/>
+  <nd ref="4663215997"/>
+  <nd ref="2638422774"/>
+  <nd ref="2638422776"/>
+  <nd ref="4051652982"/>
+  <nd ref="4051652983"/>
+  <nd ref="2633376323"/>
+  <tag k="addr:city" v="Quixadá"/>
+  <tag k="addr:housenumber" v="660"/>
+  <tag k="addr:postcode" v="63907-120"/>
+  <tag k="addr:street" v="Rua Juvêncio Alves"/>
+  <tag k="addr:suburb" v="Centro"/>
+  <tag k="amenity" v="university"/>
+  <tag k="name" v="Unicatólica - Centro Universitário Católica de Quixadá"/>
+ </way>
+ <way id="290877934" visible="true" version="1" changeset="23574975" timestamp="2014-07-02T15:18:20Z" user="Daniel de Góes Nepomuceno" uid="1717892">
+  <nd ref="252616018"/>
+  <nd ref="252615600"/>
+  <nd ref="2633376343"/>
+  <nd ref="252615145"/>
+  <nd ref="1868898588"/>
+  <tag k="highway" v="footway"/>
+  <tag k="name" v="Calçadão"/>
+ </way>
+ <way id="376025281" visible="true" version="2" changeset="37716617" timestamp="2016-03-09T19:01:39Z" user="Klevinho Santos" uid="3653414">
+  <nd ref="4051652985"/>
+  <nd ref="3793680795"/>
+  <nd ref="3793680796"/>
+  <nd ref="2633398148"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Rua Frazão Cravo"/>
+ </way>
+ <way id="381200830" visible="true" version="1" changeset="35432261" timestamp="2015-11-19T11:39:41Z" user="Daniel de Góes Nepomuceno" uid="1717892">
+  <nd ref="3844388007"/>
+  <nd ref="3844388008"/>
+  <nd ref="3844388009"/>
+  <nd ref="3844388010"/>
+  <nd ref="3844388011"/>
+  <nd ref="3844388012"/>
+  <nd ref="3844388007"/>
+  <tag k="leisure" v="park"/>
+  <tag k="name" v="Praça do Chalé da Pedra"/>
+ </way>
+ <way id="388440115" visible="true" version="4" changeset="43159605" timestamp="2016-10-25T14:28:42Z" user="Thundercel" uid="82797">
+  <nd ref="2068982581"/>
+  <nd ref="1868898580"/>
+  <nd ref="1868903733"/>
+  <nd ref="4132029925"/>
+  <nd ref="1867619436"/>
+  <nd ref="2068982577"/>
+  <nd ref="1867619413"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Rua Oscar Barbosa"/>
+ </way>
+ <way id="388440117" visible="true" version="8" changeset="61866657" timestamp="2018-08-21T19:24:07Z" user="Cicero Costa" uid="4673010">
+  <nd ref="1773581856"/>
+  <nd ref="252615145"/>
+  <nd ref="252615233"/>
+  <nd ref="4663218683"/>
+  <nd ref="252616803"/>
+  <nd ref="3916347805"/>
+  <nd ref="1868903731"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="name" v="Avenida Plácido Castelo"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="ref" v="CE-060"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="388440118" visible="true" version="3" changeset="43834318" timestamp="2016-11-20T23:01:39Z" user="Daniel de Góes Nepomuceno" uid="1717892">
+  <nd ref="1773581856"/>
+  <nd ref="3916347793"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="388440119" visible="true" version="4" changeset="43834318" timestamp="2016-11-20T23:01:39Z" user="Daniel de Góes Nepomuceno" uid="1717892">
+  <nd ref="2633376342"/>
+  <nd ref="252616261"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="name" v="Basilio Pinto"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="ref" v="CE-265"/>
+ </way>
+ <way id="388440120" visible="true" version="4" changeset="43834318" timestamp="2016-11-20T23:01:39Z" user="Daniel de Góes Nepomuceno" uid="1717892">
+  <nd ref="2633376342"/>
+  <nd ref="2633376341"/>
+  <nd ref="2633376340"/>
+  <nd ref="2633376339"/>
+  <nd ref="2633376338"/>
+  <nd ref="4463474062"/>
+  <nd ref="2633398095"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="name" v="Avenida Plácido Castelo"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="ref" v="CE-060"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="388440122" visible="true" version="4" changeset="43834318" timestamp="2016-11-20T23:01:40Z" user="Daniel de Góes Nepomuceno" uid="1717892">
+  <nd ref="252616152"/>
+  <nd ref="1773581856"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="name" v="Avenida Plácido Castelo"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="ref" v="CE-060"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="388442286" visible="true" version="4" changeset="43834318" timestamp="2016-11-20T23:01:40Z" user="Daniel de Góes Nepomuceno" uid="1717892">
+  <nd ref="2633376352"/>
+  <nd ref="2633376344"/>
+  <nd ref="2633376343"/>
+  <nd ref="3916347793"/>
+  <nd ref="2633376342"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="name" v="Avenida Plácido Castelo"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="ref" v="CE-060"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="388442291" visible="true" version="3" changeset="43834318" timestamp="2016-11-20T23:01:40Z" user="Daniel de Góes Nepomuceno" uid="1717892">
+  <nd ref="252616261"/>
+  <nd ref="252616178"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="name" v="Basilio Pinto"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="ref" v="CE-265"/>
+ </way>
+ <way id="388442292" visible="true" version="2" changeset="37715100" timestamp="2016-03-09T18:13:27Z" user="Klevinho Santos" uid="3653414">
+  <nd ref="3916347800"/>
+  <nd ref="252615529"/>
+  <nd ref="252616018"/>
+  <nd ref="252616178"/>
+  <nd ref="2068982575"/>
+  <nd ref="2068982578"/>
+  <nd ref="2633398092"/>
+  <nd ref="2068982582"/>
+  <nd ref="2068982584"/>
+  <nd ref="252616701"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Rua Francisco Enéas de Lima"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="388442293" visible="true" version="3" changeset="43834318" timestamp="2016-11-20T23:01:40Z" user="Daniel de Góes Nepomuceno" uid="1717892">
+  <nd ref="252616178"/>
+  <nd ref="252616853"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="name" v="Basilio Pinto"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="ref" v="CE-265"/>
+ </way>
+ <way id="388454616" visible="true" version="5" changeset="77412136" timestamp="2019-11-22T07:51:09Z" user="b-jazz-bot" uid="9451067">
+  <nd ref="3916515106"/>
+  <nd ref="3916515107"/>
+  <nd ref="3916515108"/>
+  <nd ref="3916515109"/>
+  <nd ref="3916515106"/>
+  <tag k="addr:city" v="Quixaba"/>
+  <tag k="addr:housenumber" v="S/N"/>
+  <tag k="addr:street" v="Rua Solidonio P. de Carvvalho"/>
+  <tag k="addr:suburb" v="Centro"/>
+  <tag k="building" v="yes"/>
+  <tag k="email" v="mpdequixaba@gmail.com"/>
+  <tag k="leisure" v="yes"/>
+  <tag k="name" v="Prefeitura Municipal de Quixabá"/>
+  <tag k="office" v="government"/>
+  <tag k="phone" v="+55 87 3854-8261;+55 87 3854-8267"/>
+  <tag k="website" v="https://www.quixaba.pe.gov.br/"/>
+ </way>
+ <way id="388454617" visible="true" version="3" changeset="54978495" timestamp="2017-12-28T10:07:38Z" user="Cicero Costa" uid="4673010">
+  <nd ref="3916515110"/>
+  <nd ref="3916515111"/>
+  <nd ref="3916515112"/>
+  <nd ref="3916515113"/>
+  <nd ref="3916515110"/>
+  <tag k="amenity" v="marketplace"/>
+  <tag k="building" v="yes"/>
+  <tag k="comment" v="Câmara Municipal de Quixadá"/>
+ </way>
+ <way id="388454618" visible="true" version="2" changeset="37715100" timestamp="2016-03-09T18:13:28Z" user="Klevinho Santos" uid="3653414">
+  <nd ref="3916515114"/>
+  <nd ref="3916515115"/>
+  <nd ref="3916515116"/>
+  <nd ref="3916515117"/>
+  <nd ref="3916515114"/>
+  <tag k="amenity" v="marketplace"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="Mercado Público Municipal"/>
+ </way>
+ <way id="388455270" visible="true" version="1" changeset="36241976" timestamp="2015-12-29T14:15:23Z" user="Daniel de Góes Nepomuceno" uid="1717892">
+  <nd ref="3916510612"/>
+  <nd ref="3916510613"/>
+  <nd ref="3916510614"/>
+  <nd ref="3916510615"/>
+  <nd ref="3916510612"/>
+  <tag k="amenity" v="place_of_worship"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="Escola Religiosa"/>
+ </way>
+ <way id="388455777" visible="true" version="1" changeset="36242029" timestamp="2015-12-29T14:18:41Z" user="Daniel de Góes Nepomuceno" uid="1717892">
+  <nd ref="3916514656"/>
+  <nd ref="3916534957"/>
+  <nd ref="3916534958"/>
+  <nd ref="3916534959"/>
+  <nd ref="3916514656"/>
+  <tag k="leisure" v="park"/>
+ </way>
+ <way id="388458442" visible="true" version="1" changeset="36242252" timestamp="2015-12-29T14:29:50Z" user="Daniel de Góes Nepomuceno" uid="1717892">
+  <nd ref="3916555162"/>
+  <nd ref="3916555163"/>
+  <nd ref="3916555164"/>
+  <nd ref="3916555165"/>
+  <nd ref="3916555162"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="Hotel Monólitos"/>
+  <tag k="tourism" v="hotel"/>
+ </way>
+ <way id="394341880" visible="true" version="2" changeset="41397647" timestamp="2016-08-11T20:44:07Z" user="Daniel de Góes Nepomuceno" uid="1717892">
+  <nd ref="3973554980"/>
+  <nd ref="3973554981"/>
+  <nd ref="3973554984"/>
+  <nd ref="3973554983"/>
+  <nd ref="3973554980"/>
+  <tag k="amenity" v="restaurant"/>
+  <tag k="building" v="commercial"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="cuisine" v="steak_house"/>
+  <tag k="height" v="6"/>
+  <tag k="internet_access" v="yes"/>
+  <tag k="internet_access:fee" v="no"/>
+  <tag k="name" v="Sabores do Sertão"/>
+  <tag k="opening_hours" v="Mo-Fr 09:30-15:30; Sa,Su 09:30-14:00; PH off"/>
+  <tag k="operator" v="Altanir Lopes Carvalho"/>
+  <tag k="smoking" v="outside"/>
+  <tag k="stars" v="5"/>
+  <tag k="wheelchair" v="no"/>
+ </way>
+ <way id="394341881" visible="true" version="2" changeset="73027230" timestamp="2019-08-05T14:22:43Z" user="Frankst" uid="22727">
+  <nd ref="3973555039"/>
+  <nd ref="3973555057"/>
+  <nd ref="3973555059"/>
+  <nd ref="3973555038"/>
+  <nd ref="3973555039"/>
+  <tag k="amenity" v="bus_station"/>
+  <tag k="bus" v="yes"/>
+  <tag k="name" v="Terminal Rodoviário de Quixadá"/>
+  <tag k="public_transport" v="station"/>
+ </way>
+ <way id="394341888" visible="true" version="2" changeset="73027230" timestamp="2019-08-05T14:22:43Z" user="Frankst" uid="22727">
+  <nd ref="3973555043"/>
+  <nd ref="3973555048"/>
+  <nd ref="3973555051"/>
+  <nd ref="3973555056"/>
+  <tag k="highway" v="service"/>
+  <tag k="maxspeed" v="20"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="401417943" visible="true" version="2" changeset="65508550" timestamp="2018-12-15T20:16:57Z" user="Revolta Gardy" uid="8300376">
+  <nd ref="4038477088"/>
+  <nd ref="4038479989"/>
+  <nd ref="4038479990"/>
+  <nd ref="4038479991"/>
+  <nd ref="4038477088"/>
+  <tag k="man_made" v="wastewater_plant"/>
+  <tag k="name" v="E.E.E. 01"/>
+  <tag k="operator" v="Companhia de Água e Esgoto do Ceará"/>
+ </way>
+ <way id="402748112" visible="true" version="1" changeset="37715100" timestamp="2016-03-09T18:13:25Z" user="Klevinho Santos" uid="3653414">
+  <nd ref="4051556931"/>
+  <nd ref="4051556932"/>
+  <nd ref="4051556933"/>
+  <nd ref="4051556934"/>
+  <nd ref="4051556931"/>
+  <tag k="amenity" v="post_office"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="Correios de Quixadá"/>
+ </way>
+ <way id="402748113" visible="true" version="1" changeset="37715100" timestamp="2016-03-09T18:13:25Z" user="Klevinho Santos" uid="3653414">
+  <nd ref="4051556935"/>
+  <nd ref="4051556936"/>
+  <nd ref="4051556937"/>
+  <nd ref="4051556938"/>
+  <nd ref="4051556935"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="Telemar"/>
+  <tag k="office" v="telecommunication"/>
+ </way>
+ <way id="402748114" visible="true" version="1" changeset="37715100" timestamp="2016-03-09T18:13:25Z" user="Klevinho Santos" uid="3653414">
+  <nd ref="4051556939"/>
+  <nd ref="4051556940"/>
+  <nd ref="4051556941"/>
+  <nd ref="4051556942"/>
+  <nd ref="4051556939"/>
+  <tag k="amenity" v="bank"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="Banco do Nordeste"/>
+ </way>
+ <way id="402756794" visible="true" version="5" changeset="71902880" timestamp="2019-07-04T16:08:32Z" user="DressyPear4" uid="3984659">
+  <nd ref="4051652978"/>
+  <nd ref="4051652979"/>
+  <nd ref="4051652980"/>
+  <nd ref="4051652981"/>
+  <nd ref="4051652978"/>
+  <tag k="amenity" v="community_centre"/>
+  <tag k="name" v="Balneário Cedro Clube"/>
+ </way>
+ <way id="402756795" visible="true" version="5" changeset="43834318" timestamp="2016-11-20T23:01:43Z" user="Daniel de Góes Nepomuceno" uid="1717892">
+  <nd ref="1868931752"/>
+  <nd ref="4463474072"/>
+  <nd ref="4463474071"/>
+  <nd ref="4463474069"/>
+  <nd ref="1868903738"/>
+  <nd ref="4463474066"/>
+  <nd ref="2633376321"/>
+  <nd ref="4463474064"/>
+  <nd ref="1868903732"/>
+  <nd ref="1868898581"/>
+  <nd ref="1868898584"/>
+  <nd ref="2633398097"/>
+  <nd ref="1868898541"/>
+  <nd ref="4463474061"/>
+  <nd ref="2068982580"/>
+  <nd ref="1868903734"/>
+  <nd ref="1868898587"/>
+  <nd ref="252616152"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="name" v="Avenida Plácido Castelo"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="ref" v="CE-060"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="402756799" visible="true" version="2" changeset="41585168" timestamp="2016-08-21T01:04:25Z" user="Daniel de Góes Nepomuceno" uid="1717892">
+  <nd ref="4051655900"/>
+  <nd ref="4051655901"/>
+  <nd ref="4051655902"/>
+  <nd ref="4051655903"/>
+  <nd ref="4051655900"/>
+  <tag k="amenity" v="fuel"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="5"/>
+  <tag k="name" v="Posto Bandeirante"/>
+ </way>
+ <way id="402765214" visible="true" version="1" changeset="37718836" timestamp="2016-03-09T20:14:51Z" user="Klevinho Santos" uid="3653414">
+  <nd ref="4051758183"/>
+  <nd ref="4051758184"/>
+  <nd ref="4051758185"/>
+  <nd ref="4051758186"/>
+  <nd ref="4051758183"/>
+  <tag k="area" v="yes"/>
+  <tag k="name" v="Centro de Referência da Mulher"/>
+ </way>
+ <way id="402765215" visible="true" version="1" changeset="37718836" timestamp="2016-03-09T20:14:52Z" user="Klevinho Santos" uid="3653414">
+  <nd ref="4051758187"/>
+  <nd ref="4051758188"/>
+  <nd ref="4051764589"/>
+  <nd ref="4051764590"/>
+  <nd ref="4051758187"/>
+  <tag k="landuse" v="commercial"/>
+  <tag k="name" v="Centro de Abastecimento"/>
+ </way>
+ <way id="402765216" visible="true" version="1" changeset="37718836" timestamp="2016-03-09T20:14:52Z" user="Klevinho Santos" uid="3653414">
+  <nd ref="4051764591"/>
+  <nd ref="4051764592"/>
+  <nd ref="4051764593"/>
+  <nd ref="4051764594"/>
+  <nd ref="4051764591"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="Icavel Veículos"/>
+  <tag k="shop" v="car"/>
+ </way>
+ <way id="402765217" visible="true" version="2" changeset="41537057" timestamp="2016-08-18T15:57:28Z" user="Daniel de Góes Nepomuceno" uid="1717892">
+  <nd ref="4051764595"/>
+  <nd ref="4051764596"/>
+  <nd ref="4051764597"/>
+  <nd ref="4051764598"/>
+  <nd ref="4051764595"/>
+  <tag k="amenity" v="bank"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="height" v="6"/>
+  <tag k="name" v="Banco do Brasil"/>
+ </way>
+ <way id="410384408" visible="true" version="3" changeset="47139457" timestamp="2017-03-25T03:59:43Z" user="patodiez" uid="1856060">
+  <nd ref="2633398105"/>
+  <nd ref="2633398103"/>
+  <nd ref="1868898594"/>
+  <nd ref="2014760300"/>
+  <nd ref="2633398101"/>
+  <nd ref="4753895496"/>
+  <nd ref="2068982578"/>
+  <nd ref="2068982579"/>
+  <nd ref="2633376338"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Rua Oscar Barbosa"/>
+ </way>
+ <way id="410384410" visible="true" version="2" changeset="43522325" timestamp="2016-11-09T23:33:25Z" user="André Alvarenga" uid="94659">
+  <nd ref="3793680833"/>
+  <nd ref="4051652986"/>
+  <nd ref="2633398064"/>
+  <nd ref="4019728843"/>
+  <nd ref="3793680815"/>
+  <nd ref="2014760301"/>
+  <nd ref="2633398062"/>
+  <nd ref="2633398147"/>
+  <nd ref="2068982582"/>
+  <nd ref="2068982583"/>
+  <nd ref="2633376337"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="lanes" v="2"/>
+  <tag k="name" v="Rua José Caetano"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="437802281" visible="true" version="1" changeset="41537057" timestamp="2016-08-18T15:57:27Z" user="Daniel de Góes Nepomuceno" uid="1717892">
+  <nd ref="4356017698"/>
+  <nd ref="4356017697"/>
+  <nd ref="4356017699"/>
+  <nd ref="4356017700"/>
+  <nd ref="4356017698"/>
+  <tag k="amenity" v="bank"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="1"/>
+  <tag k="height" v="3"/>
+  <tag k="name" v="Banco Bradesco"/>
+ </way>
+ <way id="437802283" visible="true" version="1" changeset="41537057" timestamp="2016-08-18T15:57:27Z" user="Daniel de Góes Nepomuceno" uid="1717892">
+  <nd ref="4356017706"/>
+  <nd ref="4356017705"/>
+  <nd ref="4356017707"/>
+  <nd ref="4356017708"/>
+  <nd ref="4356017706"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="1"/>
+  <tag k="height" v="4"/>
+  <tag k="name" v="Casa Girafa"/>
+  <tag k="payment:american_express" v="yes"/>
+  <tag k="payment:maestro" v="yes"/>
+  <tag k="payment:mastercard" v="yes"/>
+  <tag k="payment:visa" v="yes"/>
+  <tag k="payment:visa_debit" v="yes"/>
+  <tag k="payment:visa_electron" v="yes"/>
+  <tag k="shop" v="variety_store"/>
+ </way>
+ <way id="437802287" visible="true" version="1" changeset="41537057" timestamp="2016-08-18T15:57:27Z" user="Daniel de Góes Nepomuceno" uid="1717892">
+  <nd ref="4356017713"/>
+  <nd ref="4356017715"/>
+  <nd ref="4356017716"/>
+  <nd ref="4356017714"/>
+  <nd ref="4356017713"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="5"/>
+  <tag k="height" v="15"/>
+  <tag k="name" v="Hotel William Motos"/>
+  <tag k="tourism" v="guest_house"/>
+ </way>
+ <way id="437802292" visible="true" version="1" changeset="41537057" timestamp="2016-08-18T15:57:27Z" user="Daniel de Góes Nepomuceno" uid="1717892">
+  <nd ref="4356017695"/>
+  <nd ref="4356017693"/>
+  <nd ref="4356017694"/>
+  <nd ref="4356017696"/>
+  <nd ref="4356017695"/>
+  <tag k="amenity" v="fast_food"/>
+  <tag k="building" v="commercial"/>
+  <tag k="building:levels" v="1"/>
+  <tag k="height" v="3"/>
+  <tag k="name" v="Lanchonete do Erivaldo"/>
+ </way>
+ <way id="437802300" visible="true" version="2" changeset="54872807" timestamp="2017-12-23T20:59:14Z" user="Cicero Costa" uid="4673010">
+  <nd ref="4356017710"/>
+  <nd ref="4356017709"/>
+  <nd ref="4356017711"/>
+  <nd ref="4356017712"/>
+  <nd ref="4356017710"/>
+  <tag k="amenity" v="ice_cream"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="1"/>
+  <tag k="height" v="3"/>
+  <tag k="name" v="Sorveteria o Nivaldo"/>
+ </way>
+ <way id="438218570" visible="true" version="1" changeset="41585168" timestamp="2016-08-21T01:04:25Z" user="Daniel de Góes Nepomuceno" uid="1717892">
+  <nd ref="4359486585"/>
+  <nd ref="4359486587"/>
+  <nd ref="4359486586"/>
+  <nd ref="4359486584"/>
+  <nd ref="4359486585"/>
+  <tag k="amenity" v="fuel"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="5"/>
+ </way>
+ <way id="438218757" visible="true" version="1" changeset="41585205" timestamp="2016-08-21T01:10:59Z" user="Daniel de Góes Nepomuceno" uid="1717892">
+  <nd ref="4359489107"/>
+  <nd ref="4359489108"/>
+  <nd ref="4359489110"/>
+  <nd ref="4359489109"/>
+  <nd ref="4359489107"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="1"/>
+  <tag k="height" v="6"/>
+  <tag k="name" v="Chalé da Pedra"/>
+  <tag k="tourism" v="attraction"/>
+  <tag k="wheelchair" v="no"/>
+ </way>
+ <way id="449383822" visible="true" version="1" changeset="43159605" timestamp="2016-10-25T14:28:23Z" user="Thundercel" uid="82797">
+  <nd ref="2068982569"/>
+  <nd ref="2068982562"/>
+  <nd ref="1866429785"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Rua José Jucá"/>
+ </way>
+ <way id="449383823" visible="true" version="1" changeset="43159605" timestamp="2016-10-25T14:28:23Z" user="Thundercel" uid="82797">
+  <nd ref="1868898540"/>
+  <nd ref="1868898516"/>
+  <nd ref="1868898522"/>
+  <nd ref="2068982581"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Rua José Jucá"/>
+ </way>
+ <way id="449383825" visible="true" version="1" changeset="43159605" timestamp="2016-10-25T14:28:23Z" user="Thundercel" uid="82797">
+  <nd ref="2068982580"/>
+  <nd ref="1868898545"/>
+  <nd ref="2068982581"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="name" v="Rua Oscar Barbosa"/>
+ </way>
+ <way id="449383827" visible="true" version="1" changeset="43159605" timestamp="2016-10-25T14:28:23Z" user="Thundercel" uid="82797">
+  <nd ref="252616014"/>
+  <nd ref="1868903742"/>
+  <nd ref="1868903741"/>
+  <nd ref="2068982583"/>
+  <nd ref="2633398094"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Rua Tabelião Enéas"/>
+  <tag k="oneway" v="no"/>
+ </way>
+ <way id="449383828" visible="true" version="2" changeset="57296110" timestamp="2018-03-18T17:11:20Z" user="Daniel de Góes Nepomuceno" uid="1717892">
+  <nd ref="4463474063"/>
+  <nd ref="1868898581"/>
+  <tag k="highway" v="secondary"/>
+ </way>
+ <way id="449383829" visible="true" version="2" changeset="57296110" timestamp="2018-03-18T17:11:20Z" user="Daniel de Góes Nepomuceno" uid="1717892">
+  <nd ref="2633376321"/>
+  <nd ref="4463474065"/>
+  <tag k="highway" v="secondary"/>
+ </way>
+ <way id="449383833" visible="true" version="2" changeset="57296110" timestamp="2018-03-18T17:11:20Z" user="Daniel de Góes Nepomuceno" uid="1717892">
+  <nd ref="2633376339"/>
+  <nd ref="1868903734"/>
+  <tag k="highway" v="secondary"/>
+ </way>
+ <way id="449383834" visible="true" version="2" changeset="43834318" timestamp="2016-11-20T23:01:47Z" user="Daniel de Góes Nepomuceno" uid="1717892">
+  <nd ref="4463474062"/>
+  <nd ref="4463474061"/>
+  <tag k="highway" v="secondary"/>
+ </way>
+ <way id="449383836" visible="true" version="2" changeset="57296110" timestamp="2018-03-18T17:11:20Z" user="Daniel de Góes Nepomuceno" uid="1717892">
+  <nd ref="2633376334"/>
+  <nd ref="4463474064"/>
+  <tag k="highway" v="secondary"/>
+ </way>
+ <way id="449383837" visible="true" version="2" changeset="57296110" timestamp="2018-03-18T17:11:20Z" user="Daniel de Góes Nepomuceno" uid="1717892">
+  <nd ref="4463474067"/>
+  <nd ref="4463474066"/>
+  <tag k="highway" v="secondary"/>
+ </way>
+ <way id="449383840" visible="true" version="2" changeset="43834318" timestamp="2016-11-20T23:01:47Z" user="Daniel de Góes Nepomuceno" uid="1717892">
+  <nd ref="2633376338"/>
+  <nd ref="2068982580"/>
+  <tag k="highway" v="secondary"/>
+ </way>
+ <way id="449383842" visible="true" version="1" changeset="43159605" timestamp="2016-10-25T14:28:24Z" user="Thundercel" uid="82797">
+  <nd ref="2633376335"/>
+  <nd ref="1868903741"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="472086644" visible="true" version="1" changeset="45804852" timestamp="2017-02-04T13:08:57Z" user="Cicero Costa" uid="4673010">
+  <nd ref="4663216001"/>
+  <nd ref="4663216000"/>
+  <nd ref="4663215999"/>
+  <nd ref="4663215998"/>
+  <nd ref="4663215997"/>
+  <nd ref="4663216001"/>
+  <tag k="leisure" v="park"/>
+  <tag k="name" v="Praça Maria Esther Cavalcante Costa"/>
+ </way>
+ <way id="472817174" visible="true" version="3" changeset="53738954" timestamp="2017-11-13T12:23:09Z" user="Cicero Costa" uid="4673010">
+  <nd ref="4670196884"/>
+  <nd ref="4670196885"/>
+  <nd ref="4670196886"/>
+  <nd ref="4670196887"/>
+  <nd ref="4670196884"/>
+  <tag k="amenity" v="public_building"/>
+  <tag k="building" v="yes"/>
+  <tag k="leisure" v="yes"/>
+  <tag k="name" v="CDL Câmara de Dirigentes Logistas Quixadá"/>
+  <tag k="operator" v="CDL Câmara de Dirigentes Logistas Quixadá"/>
+ </way>
+ <way id="475960276" visible="true" version="3" changeset="53738954" timestamp="2017-11-13T12:23:09Z" user="Cicero Costa" uid="4673010">
+  <nd ref="4696383365"/>
+  <nd ref="4696383366"/>
+  <nd ref="4696383367"/>
+  <nd ref="4696383368"/>
+  <nd ref="4696383365"/>
+  <tag k="building" v="comercial"/>
+  <tag k="building:levels" v="1"/>
+  <tag k="leisure" v="yes"/>
+  <tag k="level" v="1"/>
+  <tag k="name" v="Casa Vitória A loja do Seu Osvaldo"/>
+  <tag k="shop" v="department_store"/>
+ </way>
+ <way id="476425641" visible="true" version="2" changeset="46371348" timestamp="2017-02-24T15:46:13Z" user="erickdeoliveiraleal" uid="463504">
+  <nd ref="4700168960"/>
+  <nd ref="4700168961"/>
+  <nd ref="4700168962"/>
+  <nd ref="4700168963"/>
+  <nd ref="4700168960"/>
+  <tag k="amenity" v="pharmacy"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="1"/>
+  <tag k="height" v="3"/>
+  <tag k="name" v="Farmácia Pague Menos"/>
+ </way>
+ <way id="482579091" visible="true" version="1" changeset="47139457" timestamp="2017-03-25T03:59:39Z" user="patodiez" uid="1856060">
+  <nd ref="4753895507"/>
+  <nd ref="4753895508"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="498851681" visible="true" version="1" changeset="49335693" timestamp="2017-06-07T13:09:57Z" user="Daniel de Góes Nepomuceno" uid="1717892">
+  <nd ref="4901926226"/>
+  <nd ref="4901926225"/>
+  <nd ref="4901926224"/>
+  <nd ref="4901926223"/>
+  <nd ref="4901926222"/>
+  <nd ref="4901926221"/>
+  <nd ref="4901926220"/>
+  <nd ref="4901926219"/>
+  <nd ref="4901926218"/>
+  <nd ref="4901926217"/>
+  <nd ref="4901926216"/>
+  <tag k="seasonal" v="yes"/>
+  <tag k="waterway" v="stream"/>
+ </way>
+ <way id="540198660" visible="true" version="3" changeset="66134229" timestamp="2019-01-08T16:49:02Z" user="Pedro Luis Vasconcelos" uid="9246028">
+  <nd ref="5226521623"/>
+  <nd ref="5226521624"/>
+  <nd ref="5226521625"/>
+  <nd ref="5226521626"/>
+  <nd ref="5226521623"/>
+  <tag k="alt_name" v="Justiça Federal Subseção Quixadá"/>
+  <tag k="amenity" v="courthouse"/>
+  <tag k="building" v="yes"/>
+  <tag k="leisure" v="yes"/>
+  <tag k="name" v="Juizado Especial Federal 23a Vara"/>
+ </way>
+ <way id="549522728" visible="true" version="1" changeset="54978495" timestamp="2017-12-28T10:07:38Z" user="Cicero Costa" uid="4673010">
+  <nd ref="5308167928"/>
+  <nd ref="5308167929"/>
+  <nd ref="5308167930"/>
+  <nd ref="5308167931"/>
+  <nd ref="5308167928"/>
+  <tag k="amenity" v="place_of_worship"/>
+  <tag k="building" v="church"/>
+  <tag k="building:levels" v="1"/>
+  <tag k="name" v="Igreja do Colégio Sagrado Coração de Jesus"/>
+  <tag k="religion" v="christian"/>
+ </way>
+ <way id="645475040" visible="true" version="1" changeset="64586539" timestamp="2018-11-17T00:23:35Z" user="Cicero Costa" uid="4673010">
+  <nd ref="6067573506"/>
+  <nd ref="6067573507"/>
+  <nd ref="6067573508"/>
+  <nd ref="6067573509"/>
+  <nd ref="6067573506"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="Memorial Cego Alderado"/>
+  <tag k="tourism" v="museum"/>
+ </way>
+ <way id="670441403" visible="true" version="1" changeset="67190884" timestamp="2019-02-14T11:44:13Z" user="Daniel de Góes Nepomuceno" uid="1717892">
+  <nd ref="6278396776"/>
+  <nd ref="6278396777"/>
+  <nd ref="6278396775"/>
+  <nd ref="6278396774"/>
+  <nd ref="6278396776"/>
+  <tag k="building" v="yes"/>
+  <tag k="leisure" v="sports_centre"/>
+  <tag k="name" v="Clube de Tiro Sertão Central"/>
+  <tag k="sport" v="shooting"/>
+ </way>
+ <way id="670441404" visible="true" version="1" changeset="67190884" timestamp="2019-02-14T11:44:13Z" user="Daniel de Góes Nepomuceno" uid="1717892">
+  <nd ref="6278396779"/>
+  <nd ref="6278396778"/>
+  <nd ref="6278396777"/>
+  <nd ref="6278396776"/>
+  <nd ref="6278396779"/>
+  <tag k="brand" v="Yamaha"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="Beza Motos"/>
+  <tag k="shop" v="motorcycle"/>
+ </way>
+ <relation id="302476" visible="true" version="10" changeset="61794572" timestamp="2018-08-19T14:12:25Z" user="portalaventura" uid="816543">
+  <member type="node" ref="252618153" role="admin_centre"/>
+  <member type="way" ref="43142783" role="outer"/>
+  <member type="way" ref="43142585" role="outer"/>
+  <member type="way" ref="43142381" role="outer"/>
+  <member type="way" ref="43142776" role="outer"/>
+  <member type="way" ref="43142676" role="outer"/>
+  <member type="way" ref="43142483" role="outer"/>
+  <member type="way" ref="388520502" role="outer"/>
+  <member type="way" ref="43142845" role="outer"/>
+  <tag k="admin_level" v="8"/>
+  <tag k="boundary" v="administrative"/>
+  <tag k="IBGE:GEOCODIGO" v="2311306"/>
+  <tag k="name" v="Quixadá"/>
+  <tag k="population" v="79505"/>
+  <tag k="source" v="IBGE"/>
+  <tag k="type" v="boundary"/>
+  <tag k="wikidata" v="Q2013932"/>
+  <tag k="wikipedia" v="pt:Quixadá"/>
+ </relation>
+ <relation id="5807753" visible="true" version="1" changeset="36240773" timestamp="2015-12-29T13:15:50Z" user="Daniel de Góes Nepomuceno" uid="1717892">
+  <member type="way" ref="388440122" role="from"/>
+  <member type="node" ref="1773581856" role="via"/>
+  <member type="way" ref="388440118" role="to"/>
+  <tag k="restriction" v="no_left_turn"/>
+  <tag k="type" v="restriction"/>
+ </relation>
+ <relation id="5807754" visible="true" version="1" changeset="36240773" timestamp="2015-12-29T13:15:50Z" user="Daniel de Góes Nepomuceno" uid="1717892">
+  <member type="way" ref="23328869" role="from"/>
+  <member type="node" ref="2633376342" role="via"/>
+  <member type="way" ref="388440120" role="to"/>
+  <tag k="restriction" v="no_left_turn"/>
+  <tag k="type" v="restriction"/>
+ </relation>
+ <relation id="5807773" visible="true" version="1" changeset="36241009" timestamp="2015-12-29T13:27:59Z" user="Daniel de Góes Nepomuceno" uid="1717892">
+  <member type="way" ref="388442289" role="from"/>
+  <member type="node" ref="2633376352" role="via"/>
+  <member type="way" ref="388442287" role="to"/>
+  <tag k="restriction" v="no_left_turn"/>
+  <tag k="type" v="restriction"/>
+ </relation>
+ <relation id="5807777" visible="true" version="1" changeset="36241009" timestamp="2015-12-29T13:28:00Z" user="Daniel de Góes Nepomuceno" uid="1717892">
+  <member type="way" ref="257888928" role="from"/>
+  <member type="node" ref="2633398078" role="via"/>
+  <member type="way" ref="388442294" role="to"/>
+  <tag k="restriction" v="no_left_turn"/>
+  <tag k="type" v="restriction"/>
+ </relation>
+</osm>

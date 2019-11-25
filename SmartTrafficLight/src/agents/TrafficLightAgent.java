@@ -3,8 +3,11 @@ package agents;
 import jade.core.AID;
 import jade.core.Agent;
 import jade.core.behaviours.CyclicBehaviour;
+import jade.domain.AMSService;
 import jade.domain.DFService;
+import jade.domain.FIPAAgentManagement.AMSAgentDescription;
 import jade.domain.FIPAAgentManagement.DFAgentDescription;
+import jade.domain.FIPAAgentManagement.SearchConstraints;
 import jade.domain.FIPAAgentManagement.ServiceDescription;
 import jade.domain.FIPAException;
 import jade.lang.acl.ACLMessage;
@@ -83,13 +86,13 @@ public class TrafficLightAgent extends Agent {
             super(a);
         }
 
+		@SuppressWarnings("deprecation")
 		@Override
 		public void action() {
 			double efficiencylo = 0;
 			double efficiencyns = 0;
 			double aux;
 			E3Detector e3Detector = new E3Detector();
-			if(name.split("-")[1].equals("428667950")) {
 				if(sumo.getCurrentSimStep() / 1000 > 90 && sumo.getCurrentSimStep() / 1000 % 90 == 0) {
 					e3Detector.initialize();
 
@@ -129,25 +132,76 @@ public class TrafficLightAgent extends Agent {
 					}
 		//			Alteração de plano semáforico
 						if(Math.abs(mLO - mNS) > 0.1) {
-							SumoTrafficLightProgram tlProgram = tl.getProgram();
-							SumoTrafficLightProgram newProgram = new SumoTrafficLightProgram(name + (sumo.getCurrentSimStep() / 1000) / 90);
-							for (Phase p : tlProgram.getPhases()) {
-								newProgram.addPhase(p.getDuration() - 1, p.getState());
-								String newState = "";
-								for (char s : p.getState().toCharArray()) {
-									if(Character.toLowerCase(s) == 'g') 
-										newState += 'r';
-									else if(Character.toLowerCase(s) == 'r')
-										newState += 'g';
-									else
-										newState += 'y';
+							if(mLO > mNS) 
+								tl.setProgram(createProgram(tl, 2));
+							else
+								tl.setProgram(createProgram(tl, 1));
+						}else {
+							ACLMessage msg = new ACLMessage(ACLMessage.INFORM);
+						     msg.setContent( mLO + "-" +mNS);
+						     AMSAgentDescription [] agents = null;
+						      	try {
+						            SearchConstraints c = new SearchConstraints();
+						            c.setMaxResults (new Long(-1));
+									agents = AMSService.search( TrafficLightAgent.this, new AMSAgentDescription(), c);
 								}
-								newProgram.addPhase(1, newState);
+								catch (Exception e) {
+						            System.out.println( "Problem searching AMS: " + e );
+						            e.printStackTrace();
+								}
+						     for (int i = 1; i<=agents.length; i++)
+						        msg.addReceiver( agents[i].getName());
+						     send(msg);
+							ACLMessage  msg1 = receive();
+							if(msg != null){
+								if(msg1.getPerformative()== ACLMessage.INFORM){
+									String content = msg.getContent();
+									float mLO1 = Float.parseFloat(content.split("-")[0]);
+									float mNS1 = Float.parseFloat(content.split("-")[1]);
+									if (Math.abs(mLO - mNS) > Math.abs(mLO1 - mNS1)){
+										if(mLO > mNS) 
+											tl.setProgram(createProgram(tl, 2));
+										else
+											tl.setProgram(createProgram(tl, 1));
+									}
+								}
 							}
-							tl.setProgram(newProgram);
 						}
 				}
+			
+		}
+		
+		public SumoTrafficLightProgram createProgram(SumoTrafficLight tl, int type) {
+			SumoTrafficLightProgram tlProgram = tl.getProgram();
+			String newState = "";
+			SumoTrafficLightProgram newProgram = new SumoTrafficLightProgram(name + (sumo.getCurrentSimStep() / 1000) / 90);
+			for (Phase p : tlProgram.getPhases()) {
+				if(p.getDuration() > 1) {
+					newProgram.addPhase(p.getDuration() - 1, p.getState());
+					if(type == 1) {
+						for (char s : p.getState().toCharArray()) {
+							if(Character.toLowerCase(s) == 'g') 
+								newState += 'r';
+							else if(Character.toLowerCase(s) == 'r')
+								newState += 'r';
+							else
+								newState += 'y';
+						}
+					}else {
+						for (char s : p.getState().toCharArray()) {
+							if(Character.toLowerCase(s) == 'g') 
+								newState += 'g';
+							else if(Character.toLowerCase(s) == 'r')
+								newState += 'g';
+							else
+								newState += 'y';
+						}
+					}
+				}
+
+				newProgram.addPhase(1, newState);
 			}
+			return newProgram;
 		}
     }
 }
