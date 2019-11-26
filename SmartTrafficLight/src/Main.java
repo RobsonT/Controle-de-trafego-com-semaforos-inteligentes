@@ -55,7 +55,7 @@ public class Main {
         //Criação dos agentes
         AgentsManager manager = new AgentsManager(sumo, mainContainer);
         manager.startupAgents(mainContainer);
-
+        
         api.start();
 
         while (true) {
